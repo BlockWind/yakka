@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yakka.flex</groupId>
+        <artifactId>yakka-dependencies-parent</artifactId>
+        <version>3.0.6</version>
+        <relativePath>../yakka-dependencies-parent/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>yakka-gateway</artifactId>
+    <packaging>pom</packaging>
+    <name>${project.artifactId}</name>
+    <description>网关服务-API网关，负责路由、鉴权</description>
+
+    <modules>
+        <module>yakka-gateway-biz</module>
+        <module>yakka-gateway-server</module>
+    </modules>
+</project>

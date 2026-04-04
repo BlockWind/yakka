@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>yakka-im</artifactId>
+        <groupId>com.yakka.flex</groupId>
+        <version>3.0.6</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>yakka-im-controller</artifactId>
+    <name>${project.artifactId}</name>
+    <description>系统服务-控制层模块</description>
+    <dependencies>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-im-biz</artifactId>
+            <version>${yakka-project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-login-user-resolver</artifactId>
+            <version>${yakka-project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.oshi</groupId>
+            <artifactId>oshi-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-im-cloud-impl</artifactId>
+            <version>${yakka-project.version}</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

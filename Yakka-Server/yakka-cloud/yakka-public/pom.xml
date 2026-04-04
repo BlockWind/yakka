@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yakka.flex</groupId>
+        <artifactId>yakka-dependencies-parent</artifactId>
+        <version>3.0.6</version>
+        <relativePath>../yakka-dependencies-parent/pom.xml</relativePath>
+    </parent>
+
+    <groupId>com.yakka.flex</groupId>
+    <artifactId>yakka-public</artifactId>
+
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <name>${project.artifactId}</name>
+    <description>业务相关公共模块</description>
+    <modules>
+        <module>yakka-model</module>
+        <module>yakka-config-sdk</module>
+        <module>yakka-common</module>
+        <module>yakka-database-mode</module>
+        <module>yakka-file-sdk</module>
+        <module>yakka-data-scope-sdk</module>
+        <module>yakka-sa-token-ext</module>
+        <module>yakka-router</module>
+        <module>yakka-login-user-facade</module>
+    </modules>
+
+</project>

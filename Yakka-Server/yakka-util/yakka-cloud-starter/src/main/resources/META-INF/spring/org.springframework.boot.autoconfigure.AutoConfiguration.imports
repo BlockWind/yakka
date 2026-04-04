@@ -1,0 +1,3 @@
+com.yakka.basic.cloud.config.OpenFeignAutoConfiguration
+com.yakka.basic.cloud.config.RestTemplateConfiguration
+com.yakka.basic.cloud.config.GrayscaleConfig

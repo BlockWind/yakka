@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>yakka-oauth</artifactId>
+        <groupId>com.yakka.flex</groupId>
+        <version>3.0.6</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>yakka-oauth-biz</artifactId>
+    <name>${project.artifactId}</name>
+    <description>认证服务-业务模块</description>
+    <dependencies>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-base-biz</artifactId>
+            <version>${yakka-project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-oauth-entity</artifactId>
+            <version>${yakka-project.version}</version>
+        </dependency>
+        <!-- jwt 只有认证服务需要使用 -->
+        <dependency>
+            <groupId>com.yakka.basic</groupId>
+            <artifactId>yakka-webmvc</artifactId>
+        </dependency>
+        <!-- log 只有认证服务biz模块引用，其他服务都在controller模块 -->
+        <dependency>
+            <groupId>com.yakka.basic</groupId>
+            <artifactId>yakka-log-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.yakka.basic</groupId>
+            <artifactId>yakka-captcha-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.flex</groupId>
+            <artifactId>yakka-im-cloud-impl</artifactId>
+            <version>${yakka-project.version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.basic</groupId>
+            <artifactId>yakka-transaction-starter</artifactId>
+            <version>${yakka-project.version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.yakka.basic</groupId>
+            <artifactId>yakka-tenant</artifactId>
+        </dependency>
+    </dependencies>
+</project>

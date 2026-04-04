@@ -1,0 +1,18 @@
+yakka:
+  cache:
+    type: REDIS
+    serializer-type: JACK_SON
+  redis:
+    ip: 192.168.1.37
+    port: 16379
+    password: luo.123456
+    database: 1
+spring:
+  cache:
+    type: GENERIC
+  data:
+    redis:
+      host: ${yakka.redis.ip}
+      password: ${yakka.redis.password}
+      port: ${yakka.redis.port}
+      database: ${yakka.redis.database}

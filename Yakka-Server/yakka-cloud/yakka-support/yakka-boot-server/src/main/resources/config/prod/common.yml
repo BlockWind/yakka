@@ -1,0 +1,15 @@
+yakka:
+  generator:
+    outputDir: /Users/yakka/gitlab/yakka-boot-pro-column
+    frontOutputDir: /Users/yakka/gitlab/yakka-web-pro
+    frontSoyOutputDir: /Users/yakka/gitlab/yakka-web-pro-soybean
+    frontVben5OutputDir: /Users/yakka/github/yakka-web-vben-max/apps/web-antd
+    # 作者
+    author: qianqian
+    # 默认项目
+    projectType: BOOT
+  system:
+    # 演示环境启用
+    notAllowWrite: true
+server:
+  port: 28760

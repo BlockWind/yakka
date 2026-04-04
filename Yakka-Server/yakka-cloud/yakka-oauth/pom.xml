@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yakka.flex</groupId>
+        <artifactId>yakka-dependencies-parent</artifactId>
+        <version>3.0.6</version>
+        <relativePath>../yakka-dependencies-parent/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>yakka-oauth</artifactId>
+    <name>${project.artifactId}</name>
+    <description>认证服务-处理登录认证，颁发令牌，依赖base服务</description>
+    <packaging>pom</packaging>
+    <modules>
+        <module>yakka-oauth-facade</module>
+        <module>yakka-oauth-entity</module>
+        <module>yakka-oauth-controller</module>
+        <module>yakka-oauth-biz</module>
+        <module>yakka-oauth-server</module>
+    </modules>
+
+</project>

@@ -1,0 +1,2 @@
+com.yakka.basic.tenant.config.TenantAutoConfiguration
+com.yakka.basic.tenant.config.TenantRpcAutoConfiguration

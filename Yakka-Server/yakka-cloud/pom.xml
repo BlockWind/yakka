@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.yakka.flex</groupId>
+    <artifactId>yakka-cloud</artifactId>
+    <version>3.0.6</version>
+    <packaging>pom</packaging>
+    <url>https://github.com/BlockWind/yakka/url>
+    <name>${project.artifactId}</name>
+    <description>yakka-cloud</description>
+
+    <modules>
+        <module>yakka-dependencies-parent</module>
+        <module>yakka-public</module>
+        <module>yakka-base</module>
+        <module>yakka-oauth</module>
+        <module>yakka-ws</module>
+        <module>yakka-im</module>
+        <module>yakka-gateway</module>
+        <module>yakka-support</module>
+        <module>yakka-generator</module>
+        <module>yakka-ai</module>
+        <module>yakka-system</module>
+    </modules>
+</project>

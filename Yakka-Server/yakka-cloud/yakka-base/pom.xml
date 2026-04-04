@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yakka.flex</groupId>
+        <artifactId>yakka-dependencies-parent</artifactId>
+        <version>3.0.6</version>
+        <relativePath>../yakka-dependencies-parent/pom.xml</relativePath>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>yakka-base</artifactId>
+    <name>${project.artifactId}</name>
+    <description>基础用户认证、租户、资源等核心数据管理</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>yakka-base-facade</module>
+        <module>yakka-base-server</module>
+        <module>yakka-base-entity</module>
+        <module>yakka-base-biz</module>
+        <module>yakka-base-controller</module>
+    </modules>
+</project>

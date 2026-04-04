@@ -1,0 +1,44 @@
+package com.yakka.flex.ws.cache;
+
+import com.yakka.basic.model.cache.CacheKey;
+import com.yakka.basic.model.cache.CacheKeyBuilder;
+import com.yakka.flex.common.cache.CacheKeyModular;
+
+import java.time.Duration;
+
+/**
+ * 视频会议参数 KEY
+ * <p>
+ *
+ * @author 乾乾
+ * @date 2025/7/28 6:45 下午
+ */
+public class UserRoomsCacheKeyBuilder implements CacheKeyBuilder {
+	public static CacheKey build(Long key) {
+		return new UserRoomsCacheKeyBuilder().key(key);
+	}
+
+	@Override
+	public String getPrefix() {
+		return CacheKeyModular.PREFIX;
+	}
+
+	@Override
+	public String getTable() {
+		return "user_rooms";
+	}
+
+	@Override public String getModular() {
+		return "video";
+	}
+
+	@Override
+	public String getTenant() {
+		return null;
+	}
+
+	@Override
+	public Duration getExpire() {
+		return Duration.ofMinutes(15);
+	}
+}
