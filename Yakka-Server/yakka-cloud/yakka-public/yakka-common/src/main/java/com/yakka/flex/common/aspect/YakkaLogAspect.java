@@ -14,7 +14,7 @@ import com.yakka.flex.common.properties.SystemProperties;
 /**
  * 操作日志使用spring event异步入库
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019-07-01 15:15
  */
 @Slf4j

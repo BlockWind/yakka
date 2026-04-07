@@ -3,7 +3,7 @@
 //import com.github.davidfantasy.mybatisplus.generatorui.mbp.NameConverter;
 //
 ///**
-// * @author 乾乾
+// * @author Jared
 // * @date 2022/3/1 23:55
 // */
 //public class GeberatorUIServer {

@@ -21,7 +21,7 @@ import com.yakka.basic.cache.repository.impl.CaffeineOpsImpl;
 /**
  * 内存缓存配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/08/07
  */
 @Slf4j

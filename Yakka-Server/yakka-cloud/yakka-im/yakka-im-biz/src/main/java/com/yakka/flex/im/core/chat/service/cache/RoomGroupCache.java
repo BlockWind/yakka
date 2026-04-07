@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 
 /**
  * 群组基本信息的缓存 [roomId版]
- * @author nyh
+ * @author Jared
  */
 @Component
 public class RoomGroupCache extends AbstractRedisStringCache<Long, RoomGroup> {

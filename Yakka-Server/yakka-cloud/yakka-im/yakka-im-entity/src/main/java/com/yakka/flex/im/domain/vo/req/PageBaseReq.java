@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * 基础翻页请求
- * @author nyh
+ * @author Jared
  */
 @Data
 @Schema(description = "基础翻页请求")

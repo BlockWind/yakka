@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * 物品枚举
- * @author nyh
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

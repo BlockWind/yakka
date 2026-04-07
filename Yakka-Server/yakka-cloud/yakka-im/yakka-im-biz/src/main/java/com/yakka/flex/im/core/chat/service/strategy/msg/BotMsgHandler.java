@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 
 /**
  * 机器人消息
- * @author 乾乾
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

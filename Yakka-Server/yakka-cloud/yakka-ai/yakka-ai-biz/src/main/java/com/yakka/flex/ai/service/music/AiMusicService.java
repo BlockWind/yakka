@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * AI 音乐 Service 接口
  *
- * @author xiaoxin
+ * @author Jared
  */
 public interface AiMusicService {
 

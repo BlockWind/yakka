@@ -15,7 +15,7 @@ import com.yakka.flex.file.vo.result.FileResultVO;
 /**
  * 文件接口
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/06/21
  */
 @FeignClient(name = "${" + Constants.PROJECT_PREFIX + ".feign.base-server:yakka-base-server}")

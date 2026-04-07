@@ -12,7 +12,7 @@ import java.time.Duration;
  * 参数 KEY
  * <p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020/9/20 6:45 下午
  */
 public class CaptchaCacheKeyBuilder implements CacheKeyBuilder {

@@ -8,7 +8,7 @@ import com.yakka.flex.oauth.service.CaptchaService;
 
 /**
  *
- * @author tangyh
+ * @author Jared
  * @since 2024/9/20 15:42
  */
 @Service

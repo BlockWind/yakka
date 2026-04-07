@@ -32,7 +32,7 @@ import java.util.StringJoiner;
 import java.util.function.Predicate;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/7 13:27
  */
 @Service

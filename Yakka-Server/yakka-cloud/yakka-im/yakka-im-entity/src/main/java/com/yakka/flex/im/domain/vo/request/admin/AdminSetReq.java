@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 添加管理员请求信息
- * @author nyh
+ * @author Jared
  */
 @Data
 public class AdminSetReq {

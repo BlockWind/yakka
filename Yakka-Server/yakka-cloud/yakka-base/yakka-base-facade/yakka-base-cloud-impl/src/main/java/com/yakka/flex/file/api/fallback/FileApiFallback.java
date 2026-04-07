@@ -10,7 +10,7 @@ import com.yakka.flex.file.vo.result.FileResultVO;
 /**
  * 熔断
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/25
  */
 @Component

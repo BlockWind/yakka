@@ -22,7 +22,7 @@ import java.util.Map;
  * 用户的默认应用
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2022-03-06
  */
 @Data

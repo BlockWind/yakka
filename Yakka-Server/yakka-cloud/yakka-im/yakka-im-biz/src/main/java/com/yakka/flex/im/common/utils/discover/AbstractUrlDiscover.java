@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Slf4j
 public abstract class AbstractUrlDiscover implements UrlDiscover {

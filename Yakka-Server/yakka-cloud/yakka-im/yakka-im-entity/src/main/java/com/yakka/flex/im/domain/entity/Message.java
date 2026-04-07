@@ -16,7 +16,7 @@ import com.yakka.flex.im.domain.entity.msg.MessageExtra;
  * 消息表
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

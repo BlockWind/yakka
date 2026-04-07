@@ -42,7 +42,7 @@ import java.util.Properties;
  * 拦截器执行一定是：
  * WriteInterceptor > DataScopeInterceptor > PaginationInterceptor
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/10/24
  */
 @Slf4j

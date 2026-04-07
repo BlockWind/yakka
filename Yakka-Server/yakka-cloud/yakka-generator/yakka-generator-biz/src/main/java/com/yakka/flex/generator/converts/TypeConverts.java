@@ -6,7 +6,7 @@ import com.yakka.flex.generator.converts.select.Selector;
 import com.yakka.flex.generator.rules.ColumnType;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/13 23:04
  */
 public class TypeConverts {

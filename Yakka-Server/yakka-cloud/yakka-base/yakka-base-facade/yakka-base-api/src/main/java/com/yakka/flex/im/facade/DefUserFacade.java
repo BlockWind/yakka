@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * 用户
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/02
  */
 public interface DefUserFacade extends LoadService {

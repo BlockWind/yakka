@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 记录和前端连接的一些映射信息
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

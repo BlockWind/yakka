@@ -12,7 +12,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.FdfsInputStream;
  * 文件下载结果
  *
  * @param <T>
- * @author tobato
+ * @author Jared
  */
 public class StorageDownloadResponse<T> extends FdfsResponse<T> {
 

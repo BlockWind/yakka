@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * 用户基本信息的缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 public class UserCache extends AbstractRedisStringCache<Long, User> {

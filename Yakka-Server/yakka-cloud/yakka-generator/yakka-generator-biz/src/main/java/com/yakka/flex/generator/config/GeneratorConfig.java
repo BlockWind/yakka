@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 读取代码生成相关配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022年3月3日15:05:39
  */
 @Data

@@ -18,7 +18,7 @@ import java.time.LocalDateTime;
  * 角色的资源
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021-10-21
  */
 @Data

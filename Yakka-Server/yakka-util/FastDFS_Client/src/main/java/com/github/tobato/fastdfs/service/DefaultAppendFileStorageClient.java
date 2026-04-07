@@ -14,7 +14,7 @@ import java.io.InputStream;
 /**
  * 存储服务客户端接口实现
  *
- * @author tobato
+ * @author Jared
  */
 @Component
 public class DefaultAppendFileStorageClient extends DefaultGenerateStorageClient implements AppendFileStorageClient {

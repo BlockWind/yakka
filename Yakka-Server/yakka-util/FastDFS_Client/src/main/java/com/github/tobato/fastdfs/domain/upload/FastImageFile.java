@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * 上传图片文件
  *
- * @author tobato
+ * @author Jared
  * @create 2018-12-23 3:06 PM
  */
 public class FastImageFile extends FastFile {

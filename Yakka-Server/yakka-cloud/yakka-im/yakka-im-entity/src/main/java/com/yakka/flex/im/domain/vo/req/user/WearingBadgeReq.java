@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * 佩戴徽章
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

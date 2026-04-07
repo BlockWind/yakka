@@ -10,7 +10,7 @@ import com.yakka.flex.base.entity.user.BaseOrg;
  * 组织
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-18
  */
 public interface BaseOrgManager extends SuperCacheManager<BaseOrg>, LoadService {

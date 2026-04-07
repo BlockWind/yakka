@@ -25,7 +25,7 @@ import java.util.List;
 
 /**
  * 好友相关接口
- * @author 乾乾
+ * @author Jared
  */
 @RestController
 @RequestMapping("/user/friend")

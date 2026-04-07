@@ -2,7 +2,7 @@ package com.yakka.flex.im.core.chat.constant;
 
 /**
  * 群常量
- * @author nyh
+ * @author Jared
  */
 public class GroupConst {
 

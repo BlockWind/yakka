@@ -9,8 +9,8 @@ import java.util.function.Function;
  * 封装异常 stream 流的异常
  * https://mp.weixin.qq.com/s/jBXYj-w0woXtPPUxGhD8Ug
  *
- * @author IT牧场
- * @author 乾乾
+ * @author Jared
+ * @author Jared
  * @date 2019/05/15
  */
 public final class Either<L, R> {

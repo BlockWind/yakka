@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
  * 系统配置
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2024-04-18
  */
 @Repository

@@ -18,7 +18,7 @@ import com.yakka.flex.gateway.rule.GrayscaleLoadBalancer;
 /**
  * 灰度负载模式自动装配
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021年07月13日08:37:32
  */
 @Configuration

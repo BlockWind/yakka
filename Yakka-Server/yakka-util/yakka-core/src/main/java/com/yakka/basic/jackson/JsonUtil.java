@@ -31,7 +31,7 @@ import static com.yakka.basic.utils.DateUtils.DEFAULT_DATE_TIME_FORMAT;
 /**
  * 对 jack json 进行封装
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 public final class JsonUtil {

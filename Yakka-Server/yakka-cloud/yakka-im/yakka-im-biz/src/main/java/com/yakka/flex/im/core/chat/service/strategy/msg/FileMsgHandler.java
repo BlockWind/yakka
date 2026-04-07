@@ -12,7 +12,7 @@ import java.util.Optional;
 
 /**
  * 图片消息
- * @author nyh
+ * @author Jared
  */
 @Component
 public class FileMsgHandler extends AbstractMsgHandler<FileMsgDTO> {

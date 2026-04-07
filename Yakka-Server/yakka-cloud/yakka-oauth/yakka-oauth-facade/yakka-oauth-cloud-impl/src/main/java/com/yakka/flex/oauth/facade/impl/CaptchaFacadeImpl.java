@@ -10,7 +10,7 @@ import com.yakka.flex.oauth.facade.CaptchaFacade;
 
 /**
  *
- * @author tangyh
+ * @author Jared
  * @since 2024/9/20 15:42
  */
 @Service

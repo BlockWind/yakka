@@ -5,7 +5,7 @@ import com.yakka.basic.model.log.OptLogDTO;
 /**
  * 操作日志保存 API
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/02
  */
 public interface LogFacade {

@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 频控注解
- * @author nyh
+ * @author Jared
  */
 @Repeatable(FrequencyControlContainer.class) // 可重复
 @Retention(RetentionPolicy.RUNTIME)// 运行时生效

@@ -13,7 +13,7 @@ import java.io.InputStream;
 /**
  * 文件下载回调方法
  *
- * @author tobato
+ * @author Jared
  */
 public class DownloadFileWriter implements DownloadCallback<String> {
 

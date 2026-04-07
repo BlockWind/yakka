@@ -9,7 +9,7 @@ import com.yakka.flex.base.entity.system.DefArea;
  * 地区表
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-13
  */
 public interface DefAreaManager extends SuperManager<DefArea> {

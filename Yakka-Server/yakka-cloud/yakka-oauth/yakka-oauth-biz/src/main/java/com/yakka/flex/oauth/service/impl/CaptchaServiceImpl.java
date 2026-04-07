@@ -40,7 +40,7 @@ import com.yakka.flex.msg.facade.MsgFacade;
 /**
  * 验证码服务
  *
- * @author 乾乾
+ * @author Jared
  */
 @Service
 @RequiredArgsConstructor

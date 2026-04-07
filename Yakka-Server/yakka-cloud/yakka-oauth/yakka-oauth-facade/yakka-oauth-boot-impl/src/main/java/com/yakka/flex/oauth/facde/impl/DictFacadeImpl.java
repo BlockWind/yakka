@@ -12,7 +12,7 @@ import java.util.Set;
 
 /**
  * 字典实现
- * @author tangyh
+ * @author Jared
  * @since 2024/9/20 23:29
  */
 @Service(EchoApi.DICTIONARY_ITEM_FEIGN_CLASS)

@@ -31,7 +31,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Swagger配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/31
  */
 @RestController

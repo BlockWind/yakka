@@ -12,7 +12,7 @@ import java.io.Serializable;
 
 /**
  * 上传url请求入参
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

@@ -10,7 +10,7 @@ import com.yakka.basic.interfaces.BaseEnum;
  * 资源 打开方式
  * [01-组件 02-内链 03-外链]
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021/3/12 21:20
  */
 @Getter

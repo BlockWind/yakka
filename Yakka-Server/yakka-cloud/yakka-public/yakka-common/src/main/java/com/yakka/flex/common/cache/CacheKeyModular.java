@@ -3,7 +3,7 @@ package com.yakka.flex.common.cache;
 /**
  * 缓存模块
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020/10/21
  */
 public class CacheKeyModular {

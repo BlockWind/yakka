@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * 消息相关缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 public class MsgCache extends AbstractRedisStringCache<Long, Message> {

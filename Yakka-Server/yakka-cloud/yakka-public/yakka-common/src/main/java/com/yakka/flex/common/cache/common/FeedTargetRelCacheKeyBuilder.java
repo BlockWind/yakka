@@ -10,7 +10,7 @@ import java.time.Duration;
 
 /**
  * 朋友圈权限信息缓存  朋友圈ID -> 朋友圈权限集合
- * @author 乾乾
+ * @author Jared
  */
 public class FeedTargetRelCacheKeyBuilder implements CacheKeyBuilder {
 

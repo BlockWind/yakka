@@ -22,7 +22,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 异步任务配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021年06月23日19:49:53
  */
 @Setter

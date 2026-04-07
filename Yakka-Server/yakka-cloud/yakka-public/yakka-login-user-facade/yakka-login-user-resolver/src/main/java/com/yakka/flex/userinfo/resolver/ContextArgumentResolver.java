@@ -19,7 +19,7 @@ import com.yakka.flex.userinfo.service.UserResolverService;
 /**
  * Token转化SysUser
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/12/21
  */
 @Slf4j

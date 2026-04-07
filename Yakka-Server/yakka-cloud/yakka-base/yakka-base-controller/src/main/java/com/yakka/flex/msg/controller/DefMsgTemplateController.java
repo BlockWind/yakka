@@ -31,7 +31,7 @@ import static com.yakka.flex.common.constant.SwaggerConstants.DATA_TYPE_STRING;
  * 消息模板
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022-07-04 15:51:37
  * @create [2022-07-04 15:51:37] [zuihou] [代码生成器生成]
  */

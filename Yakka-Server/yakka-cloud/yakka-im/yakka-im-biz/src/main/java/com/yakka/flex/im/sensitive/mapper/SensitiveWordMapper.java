@@ -7,7 +7,7 @@ import com.yakka.flex.im.sensitive.domain.SensitiveWord;
 /**
  * 敏感词Mapper
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface SensitiveWordMapper extends BaseMapper<SensitiveWord> {

@@ -7,7 +7,7 @@ import com.yakka.flex.file.enumeration.FileStorageType;
 /**
  * 文件删除
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/05/07
  */
 @Data

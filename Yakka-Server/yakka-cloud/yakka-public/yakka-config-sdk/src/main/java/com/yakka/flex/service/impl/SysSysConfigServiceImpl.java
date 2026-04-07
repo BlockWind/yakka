@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * 参数配置 服务层实现
  * @DataSource(DataSourceType.MASTER)
- * @author 乾乾
+ * @author Jared
  */
 @Service
 @RequiredArgsConstructor

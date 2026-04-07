@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 /**
  * AI 知识库段落搜索 Request BO
  *
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @Accessors(chain = true)

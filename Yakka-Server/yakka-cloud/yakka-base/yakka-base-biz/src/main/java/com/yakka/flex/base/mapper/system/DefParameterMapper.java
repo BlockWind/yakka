@@ -11,7 +11,7 @@ import com.yakka.flex.base.entity.system.DefParameter;
  * 参数配置
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-13
  */
 @Repository

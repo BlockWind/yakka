@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 从数据库表到文件的命名策略
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/13 22:13
  */
 public enum NamingStrategy {

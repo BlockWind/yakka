@@ -31,7 +31,7 @@ import static com.google.common.base.Preconditions.checkNotNull;
 /**
  * Map 类增强
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/29
  */
 public final class CollHelper {

@@ -1,7 +1,7 @@
 package com.yakka.basic.interfaces.echo;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/9/12 12:03
  */
 public interface EchoService {

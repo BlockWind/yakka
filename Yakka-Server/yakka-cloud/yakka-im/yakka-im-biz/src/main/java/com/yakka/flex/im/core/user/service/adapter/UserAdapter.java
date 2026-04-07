@@ -18,7 +18,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author nyh
+ * @author Jared
  */
 public class UserAdapter {
 

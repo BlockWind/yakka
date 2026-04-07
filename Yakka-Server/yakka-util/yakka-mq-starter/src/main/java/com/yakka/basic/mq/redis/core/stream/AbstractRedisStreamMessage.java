@@ -6,7 +6,7 @@ import com.yakka.basic.mq.redis.core.message.AbstractRedisMessage;
 /**
  * Redis Stream Message 抽象类
  *
- * @author 乾乾
+ * @author Jared
  */
 public abstract class AbstractRedisStreamMessage extends AbstractRedisMessage {
 

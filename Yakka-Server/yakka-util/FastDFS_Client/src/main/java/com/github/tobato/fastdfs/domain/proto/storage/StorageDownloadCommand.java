@@ -8,7 +8,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.internal.StorageDownloadRe
  * 文件下载命令
  *
  * @param <T>
- * @author tobato
+ * @author Jared
  */
 public class StorageDownloadCommand<T> extends AbstractFdfsCommand<T> {
 

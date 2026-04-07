@@ -4,7 +4,7 @@ import com.yakka.basic.base.R;
 import com.yakka.flex.job.dto.XxlJobInfoVO;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @since 2024年09月21日00:15:26
  */
 public interface JobFacade {

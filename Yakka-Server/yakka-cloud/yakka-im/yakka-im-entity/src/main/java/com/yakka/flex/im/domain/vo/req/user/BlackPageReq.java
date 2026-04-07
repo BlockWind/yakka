@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * 黑名单分页查询请求
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

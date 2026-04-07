@@ -13,7 +13,7 @@ import static com.yakka.basic.exception.code.ResponseEnum.JWT_BASIC_INVALID;
 /**
  * 工具类
  *
- * @author 乾乾
+ * @author Jared
  */
 public class Base64Util {
 

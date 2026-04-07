@@ -1,7 +1,7 @@
 package com.yakka.flex.common.constant;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2020/11/22 5:41 下午
  */
 public class SwaggerConstants {

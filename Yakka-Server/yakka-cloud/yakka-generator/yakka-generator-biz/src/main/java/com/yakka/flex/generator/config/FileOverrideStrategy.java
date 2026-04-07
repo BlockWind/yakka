@@ -5,7 +5,7 @@ import lombok.Setter;
 import com.yakka.flex.generator.enumeration.FileOverrideStrategyEnum;
 
 /**
- * @author tangyh
+ * @author Jared
  * @version v1.0
  * @date 2022/4/15 10:15 AM
  * @create [2022/4/15 10:15 AM ] [tangyh] [初始创建]

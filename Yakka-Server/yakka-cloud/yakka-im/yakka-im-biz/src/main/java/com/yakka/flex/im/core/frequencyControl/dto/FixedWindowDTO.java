@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 限流策略定义
- * @author nyh
+ * @author Jared
  */
 @Data
 public class FixedWindowDTO extends FrequencyControlDTO {

@@ -12,7 +12,7 @@ import reactor.core.publisher.Flux;
 /**
  * DeepSeek {@link ChatModel} 实现类
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @RequiredArgsConstructor

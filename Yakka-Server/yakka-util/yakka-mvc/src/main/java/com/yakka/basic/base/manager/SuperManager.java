@@ -15,7 +15,7 @@ import java.util.List;
  * 2，saveBatchSomeColumn 批量插入
  *
  * @param <T> 实体
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月03日20:49:03
  */
 @SuppressWarnings("ALL")

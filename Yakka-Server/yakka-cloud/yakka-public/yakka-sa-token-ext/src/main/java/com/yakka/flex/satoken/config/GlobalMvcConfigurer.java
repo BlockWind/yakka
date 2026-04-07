@@ -10,7 +10,7 @@ import com.yakka.flex.satoken.interceptor.NotAllowWriteInterceptor;
 /**
  * 公共配置类, 一些公共工具配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/8/25
  */
 @RequiredArgsConstructor

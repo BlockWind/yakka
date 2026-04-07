@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * 通用拉黑请求（支持IP和UID）
- * @author nyh
+ * @author Jared
  */
 @Data
 @Schema(description = "通用拉黑请求")

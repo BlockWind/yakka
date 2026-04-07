@@ -15,7 +15,7 @@ import java.io.Serializable;
 /**
  * 我的消息
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021/8/8 23:48
  */
 @Data

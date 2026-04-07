@@ -42,7 +42,7 @@ import com.yakka.flex.model.entity.ws.ChatMemberResp;
 import java.util.List;
 
 /**
- * @author nyh
+ * @author Jared
  */
 public interface RoomAppService {
 	/**

@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 /**
  * 激活状态
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/12/29
  */
 @AllArgsConstructor

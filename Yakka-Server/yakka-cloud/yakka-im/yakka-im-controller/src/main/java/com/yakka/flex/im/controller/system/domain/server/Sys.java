@@ -3,7 +3,7 @@ package com.yakka.flex.im.controller.system.domain.server;
 /**
  * 系统相关信息
  *
- * @author 乾乾
+ * @author Jared
  */
 public class Sys {
     /**

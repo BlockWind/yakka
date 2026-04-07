@@ -6,7 +6,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author 乾乾
+ * @author Jared
  */
 @Data
 public class RefreshTokenReq implements Serializable {

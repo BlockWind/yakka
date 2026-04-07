@@ -21,7 +21,7 @@ import java.io.Serializable;
  * 角色
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021-10-18
  */
 @Data

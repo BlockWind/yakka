@@ -13,7 +13,7 @@ import java.util.List;
  * 消息标记表 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class MessageMarkDao extends ServiceImpl<MessageMarkMapper, MessageMark> {

@@ -14,7 +14,7 @@ import lombok.EqualsAndHashCode;
  * 统一通知表
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

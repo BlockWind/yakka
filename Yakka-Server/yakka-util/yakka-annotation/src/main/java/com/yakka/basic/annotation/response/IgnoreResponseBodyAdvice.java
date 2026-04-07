@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * 忽略全局响应包装
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020/12/24 8:11 下午
  */
 @Retention(RetentionPolicy.RUNTIME)

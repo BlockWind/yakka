@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 /**
  * 频控实现
  *
- * @author nyh
+ * @author Jared
  */
 @Slf4j
 @Aspect

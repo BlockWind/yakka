@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 
 /**
  * 群成员列表的成员信息
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

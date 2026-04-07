@@ -15,7 +15,7 @@ import java.util.List;
  * 用户背包表 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class UserBackpackDao extends ServiceImpl<UserBackpackMapper, UserBackpack> {

@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 长度 转换器
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019-07-25 15:15
  */
 public class MaxMinConstraintConverter extends BaseConstraintConverter implements IConstraintConverter {

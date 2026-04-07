@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * feign集成sentinel自动配置
  *
- * @author 乾乾
+ * @author Jared
  */
 public class SentinelFeignBuilder extends Feign.Builder implements ApplicationContextAware {
 

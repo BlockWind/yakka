@@ -9,7 +9,7 @@ import com.github.tobato.fastdfs.domain.proto.tracker.internal.TrackerGetStoreSt
 /**
  * 获取存储节点命令
  *
- * @author tobato
+ * @author Jared
  */
 public class TrackerGetStoreStorageCommand extends AbstractFdfsCommand<StorageNode> {
 

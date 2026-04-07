@@ -9,7 +9,7 @@ import com.yakka.basic.interfaces.BaseEnum;
 import java.util.stream.Stream;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2022/7/10 0010 15:52
  */
 @Getter

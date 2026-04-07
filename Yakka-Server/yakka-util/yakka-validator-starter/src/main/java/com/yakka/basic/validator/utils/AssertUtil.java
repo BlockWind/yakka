@@ -43,7 +43,7 @@ import java.util.Set;
  * HibernateValidate 校验工具类
  *
  * @since 2024年06月24日14:29:43
- * @author tangyh
+ * @author Jared
  */
 @Slf4j
 public class AssertUtil {

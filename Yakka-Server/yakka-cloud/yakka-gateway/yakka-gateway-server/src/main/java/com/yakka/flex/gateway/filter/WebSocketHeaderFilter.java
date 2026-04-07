@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * ws消息升级
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025年06月19日10:19:27
  */
 @Component

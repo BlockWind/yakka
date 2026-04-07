@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
  * 接口属性
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022-07-04 15:51:37
  * @create [2022-07-04 15:51:37] [zuihou] [代码生成器生成]
  */

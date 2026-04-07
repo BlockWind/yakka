@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * 扫码成功对象，推送给用户的消息对象
- * @author nyh
+ * @author Jared
  */
 @Data
 @AllArgsConstructor

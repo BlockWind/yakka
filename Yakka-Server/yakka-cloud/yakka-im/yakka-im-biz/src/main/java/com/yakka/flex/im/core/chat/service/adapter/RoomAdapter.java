@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 
 /**
  * 消息适配器
- * @author nyh
+ * @author Jared
  */
 public class RoomAdapter {
 

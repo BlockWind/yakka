@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 批量查询用户汇总详情
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

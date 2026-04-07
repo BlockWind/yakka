@@ -12,7 +12,7 @@ import java.util.Set;
 
 /**
  *
- * @author 乾乾
+ * @author Jared
  * @since 2025/6/12 23:33
  */
 @Service(EchoApi.IM_USER_ID_CLASS)

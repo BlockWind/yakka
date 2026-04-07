@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 
 /**
  * 群成员相关缓存 TODO 要重构，群成员的信息要单独缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 public class GroupMemberCache {

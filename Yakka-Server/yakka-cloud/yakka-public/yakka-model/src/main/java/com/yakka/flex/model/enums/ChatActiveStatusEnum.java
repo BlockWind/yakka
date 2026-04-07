@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  *  ws前端请求类型枚举
- * @author nyh
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

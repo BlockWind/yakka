@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 /**
  * 角色枚举
- * @author nyh
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

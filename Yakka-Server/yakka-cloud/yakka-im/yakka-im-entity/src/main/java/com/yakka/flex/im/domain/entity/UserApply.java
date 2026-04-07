@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
  * 用户申请表
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

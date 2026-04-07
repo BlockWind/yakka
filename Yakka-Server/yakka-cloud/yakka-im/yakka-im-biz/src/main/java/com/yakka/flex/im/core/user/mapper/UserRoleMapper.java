@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.UserRole;
  * 用户角色关系表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface UserRoleMapper extends BaseMapper<UserRole> {

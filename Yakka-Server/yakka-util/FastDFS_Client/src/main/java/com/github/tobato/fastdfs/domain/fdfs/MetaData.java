@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.fdfs;
 /**
  * 文件元数据(MetaData)
  *
- * @author tobato
+ * @author Jared
  */
 public class MetaData {
 

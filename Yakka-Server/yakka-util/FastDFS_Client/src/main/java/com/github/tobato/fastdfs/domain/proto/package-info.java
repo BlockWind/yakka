@@ -4,6 +4,6 @@
  * 封装与服务端交易报文命令
  * </pre>
  *
- * @author tobato
+ * @author Jared
  */
 package com.github.tobato.fastdfs.domain.proto;

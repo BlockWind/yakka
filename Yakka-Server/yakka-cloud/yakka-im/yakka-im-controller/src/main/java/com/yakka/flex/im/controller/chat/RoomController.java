@@ -44,7 +44,7 @@ import java.util.List;
 
 /**
  * 房间相关接口
- * @author nyh
+ * @author Jared
  */
 @RestController
 @RequestMapping("/room")

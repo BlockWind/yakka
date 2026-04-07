@@ -45,7 +45,7 @@ import static com.yakka.basic.utils.collection.CollectionUtils.convertList;
 /**
  * AI 知识库分片 Service 实现类
  *
- * @author xiaoxin
+ * @author Jared
  */
 @Service
 @Slf4j

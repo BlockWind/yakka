@@ -16,7 +16,7 @@ import java.util.Collections;
 
 /**
  * ws消息适配器
- * @author nyh
+ * @author Jared
  */
 @Component
 public class WsAdapter {

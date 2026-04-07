@@ -7,7 +7,7 @@ import com.github.tobato.fastdfs.domain.proto.tracker.internal.TrackerDeleteStor
 /**
  * 移除存储服务器命令
  *
- * @author tobato
+ * @author Jared
  */
 public class TrackerDeleteStorageCommand extends AbstractFdfsCommand<Void> {
 

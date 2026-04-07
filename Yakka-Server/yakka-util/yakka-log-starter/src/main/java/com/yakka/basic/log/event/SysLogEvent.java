@@ -7,7 +7,7 @@ import com.yakka.basic.model.log.OptLogDTO;
 /**
  * 系统日志事件
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019-07-01 15:13
  */
 public class SysLogEvent extends ApplicationEvent {

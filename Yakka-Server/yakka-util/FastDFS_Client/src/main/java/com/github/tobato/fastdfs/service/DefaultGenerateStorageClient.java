@@ -15,7 +15,7 @@ import java.util.Set;
 /**
  * 基本存储客户端操作实现
  *
- * @author tobato
+ * @author Jared
  */
 @Component
 public class DefaultGenerateStorageClient implements GenerateStorageClient {

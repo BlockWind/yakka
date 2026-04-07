@@ -11,7 +11,7 @@ import java.io.Serializable;
  * <p>
  * 代码参考hutool
  *
- * @author tangyh
+ * @author Jared
  */
 @Getter
 @Setter

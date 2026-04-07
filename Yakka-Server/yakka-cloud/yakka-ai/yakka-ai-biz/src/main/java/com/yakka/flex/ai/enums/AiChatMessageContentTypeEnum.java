@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * <p>用于标记消息内容的类型，方便前端渲染</p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Getter
 @AllArgsConstructor

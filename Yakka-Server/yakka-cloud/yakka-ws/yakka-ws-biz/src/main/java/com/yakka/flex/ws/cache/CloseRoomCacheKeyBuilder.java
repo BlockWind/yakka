@@ -12,7 +12,7 @@ import java.time.Duration;
 /**
  * 关闭房间参数 KEY
  *
- * @author 乾乾
+ * @author Jared
  */
 public class CloseRoomCacheKeyBuilder implements CacheKeyBuilder {
     public static CacheKey builder(Serializable roomId) {

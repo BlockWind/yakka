@@ -21,7 +21,7 @@ import java.util.stream.Stream;
  * copyable
  * time-humanize
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/23 20:11
  */
 @Getter

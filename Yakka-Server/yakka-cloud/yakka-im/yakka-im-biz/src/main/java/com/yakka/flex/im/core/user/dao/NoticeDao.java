@@ -20,7 +20,7 @@ import static com.yakka.flex.im.domain.enums.ApplyReadStatusEnum.UNREAD;
  * 通知 服务实现类
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Service
 public class NoticeDao extends ServiceImpl<NoticeMapper, Notice> {

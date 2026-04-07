@@ -15,7 +15,7 @@ import java.net.InetSocketAddress;
  * 定义了对象池要实现的功能,对一个地址进行池化Map Pool
  * </pre>
  *
- * @author tobato
+ * @author Jared
  */
 @Component
 public class FdfsConnectionPool extends GenericKeyedObjectPool<InetSocketAddress, Connection> {

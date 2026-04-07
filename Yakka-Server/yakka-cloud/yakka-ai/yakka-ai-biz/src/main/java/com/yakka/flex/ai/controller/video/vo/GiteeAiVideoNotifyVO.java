@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  *
  * 根据官方文档：https://ai.gitee.com/docs/openapi/v1#tag/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90
  *
- * @author 乾乾
+ * @author Jared
  */
 @Schema(description = "Gitee AI 视频生成回调通知")
 @Data

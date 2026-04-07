@@ -8,7 +8,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.internal.StorageQueryFileI
 /**
  * 文件查询命令
  *
- * @author tobato
+ * @author Jared
  */
 public class StorageQueryFileInfoCommand extends AbstractFdfsCommand<FileInfo> {
 

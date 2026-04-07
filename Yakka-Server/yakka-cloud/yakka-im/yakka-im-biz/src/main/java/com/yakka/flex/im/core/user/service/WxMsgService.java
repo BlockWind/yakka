@@ -31,7 +31,7 @@ import java.util.Objects;
 /**
  * 处理与微信api的交互逻辑
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 @Slf4j

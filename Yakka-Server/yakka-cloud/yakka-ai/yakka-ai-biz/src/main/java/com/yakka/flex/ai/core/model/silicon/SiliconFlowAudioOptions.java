@@ -20,7 +20,7 @@ import lombok.NoArgsConstructor;
  *   <li>CosyVoice2-0.5B - 支持默认音色</li>
  * </ul>
  *
- * @author 乾乾
+ * @author Jared
  * @see AudioOptions
  * @see <a href="https://docs.siliconflow.cn/cn/api-reference/audio/speech">硅基流动音频API文档</a>
  */

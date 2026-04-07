@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
  * 消息表 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class MessageDao extends ServiceImpl<MessageMapper, Message> {

@@ -6,7 +6,7 @@ import org.apache.ibatis.type.Alias;
 /**
  * 仅仅用于like查询
  *
- * @author 乾乾
+ * @author Jared
  */
 @Alias("fullLike")
 public class FullLikeTypeHandler extends BaseLikeTypeHandler {

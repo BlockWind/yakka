@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 /**
  * AI API 密钥 Mapper
  *
- * @author 乾乾
+ * @author Jared
  */
 @Repository
 public interface AiApiKeyMapper extends BaseMapperX<AiApiKeyDO> {

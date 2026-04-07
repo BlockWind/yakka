@@ -12,7 +12,7 @@ import java.util.Optional;
 
 /**
  * 表情消息
- * @author nyh
+ * @author Jared
  */
 @Component
 public class EmojisMsgHandler extends AbstractMsgHandler<EmojisMsgDTO> {

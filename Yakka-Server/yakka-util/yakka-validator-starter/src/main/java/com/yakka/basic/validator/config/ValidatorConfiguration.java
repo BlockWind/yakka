@@ -16,7 +16,7 @@ import com.yakka.basic.validator.utils.AssertUtil;
 /**
  * 验证器配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/14
  */
 @ComponentScan(basePackageClasses = FormValidatorController.class)

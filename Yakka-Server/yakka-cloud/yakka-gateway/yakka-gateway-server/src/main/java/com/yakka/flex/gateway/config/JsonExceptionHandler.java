@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/29 14:08
  */
 public class JsonExceptionHandler implements ErrorWebExceptionHandler {

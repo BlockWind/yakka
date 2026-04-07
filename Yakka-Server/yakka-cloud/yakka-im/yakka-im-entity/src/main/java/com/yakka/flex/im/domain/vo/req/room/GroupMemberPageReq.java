@@ -8,7 +8,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 群成员分页请求
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

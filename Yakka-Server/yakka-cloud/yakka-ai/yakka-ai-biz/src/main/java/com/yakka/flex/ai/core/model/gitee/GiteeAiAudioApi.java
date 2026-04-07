@@ -24,7 +24,7 @@ import org.springframework.web.client.RestClient;
  * </ul>
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 public class GiteeAiAudioApi {

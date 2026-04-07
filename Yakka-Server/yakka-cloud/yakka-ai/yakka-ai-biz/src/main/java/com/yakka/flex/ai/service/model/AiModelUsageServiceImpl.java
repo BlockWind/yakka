@@ -15,7 +15,7 @@ import static com.yakka.flex.ai.utils.ServiceExceptionUtil.exception;
 /**
  * AI 模型使用次数 Service 实现类
  *
- * @author 乾乾
+ * @author Jared
  */
 @Service
 @Slf4j

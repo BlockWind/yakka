@@ -14,7 +14,7 @@ import java.time.Duration;
  * <p>
  * #def_application
  *
- * @author qianqian
+ * @author Jared
  * @date 2020/9/20 6:45 下午
  */
 public class WxMsgKeyBuilder implements CacheKeyBuilder {

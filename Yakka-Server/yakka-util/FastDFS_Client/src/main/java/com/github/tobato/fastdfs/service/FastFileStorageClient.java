@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * 面向普通应用的文件操作接口封装
  *
- * @author tobato
+ * @author Jared
  */
 public interface FastFileStorageClient extends GenerateStorageClient {
 

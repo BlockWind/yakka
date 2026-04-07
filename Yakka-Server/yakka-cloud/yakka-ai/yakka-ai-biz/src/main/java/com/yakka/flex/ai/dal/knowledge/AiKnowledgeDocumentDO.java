@@ -11,7 +11,7 @@ import lombok.experimental.Accessors;
 /**
  * AI 知识库-文档 DO
  *
- * @author xiaoxin
+ * @author Jared
  */
 @TableName(value = "ai_knowledge_document")
 @KeySequence("ai_knowledge_document_seq") // 用于 Oracle、PostgreSQL、Kingbase、DB2、H2 数据库的主键自增。如果是 MySQL 等数据库，可不写。

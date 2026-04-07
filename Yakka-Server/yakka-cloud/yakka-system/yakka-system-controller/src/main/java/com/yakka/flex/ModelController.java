@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 模型模块
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025年10月20日12:20:36
  */
 @Slf4j

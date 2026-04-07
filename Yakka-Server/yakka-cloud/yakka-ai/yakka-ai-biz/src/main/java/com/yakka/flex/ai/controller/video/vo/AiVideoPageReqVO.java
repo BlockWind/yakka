@@ -11,7 +11,7 @@ import static com.yakka.basic.utils.TimeUtils.DEFAULT_YEAR_FORMAT;
 /**
  * 管理后台 - AI 视频分页 Request VO
  *
- * @author 乾乾
+ * @author Jared
  */
 @Data
 public class AiVideoPageReqVO extends PageParam {

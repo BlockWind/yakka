@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 /**
  * 管理员变更数据传输对象
- * @author 乾乾
+ * @author Jared
  */
 @Data
 public class AdminChangeDTO implements Serializable {

@@ -12,7 +12,7 @@ import java.util.Optional;
 
 /**
  * 视频消息
- * @author nyh
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

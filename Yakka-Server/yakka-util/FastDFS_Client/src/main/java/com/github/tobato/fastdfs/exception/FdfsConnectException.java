@@ -3,8 +3,8 @@ package com.github.tobato.fastdfs.exception;
 /**
  * 非fastdfs本身的错误码抛出的异常，socket连不上时抛出的异常
  * 
- * @author yuqihuang
- * @author tobato
+ * @author Jareduang
+ * @author Jared
  * 
  */
 public class FdfsConnectException extends FdfsUnavailableException {

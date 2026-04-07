@@ -16,7 +16,7 @@ import com.yakka.flex.im.service.tenant.EmailService;
 /**
  * system模块公开 服务
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025年06月05日00:50:36
  */
 @Slf4j

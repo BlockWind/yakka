@@ -14,7 +14,7 @@ import com.yakka.basic.scan.utils.RequestMappingScanUtils;
 /**
  * 启动配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021年09月19日15:13:33
  */
 @AllArgsConstructor

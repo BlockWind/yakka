@@ -5,7 +5,7 @@ import org.jsoup.nodes.Document;
 
 /**
  * 针对微信公众号文章的标题获取类
- * @author nyh
+ * @author Jared
  */
 public class WxUrlDiscover extends AbstractUrlDiscover {
 

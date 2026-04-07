@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 解散群聊请求
- * @author nyh
+ * @author Jared
  */
 @Data
 public class DisbandGroupReq implements Serializable {

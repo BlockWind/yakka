@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @EnableCaching
 @Configuration

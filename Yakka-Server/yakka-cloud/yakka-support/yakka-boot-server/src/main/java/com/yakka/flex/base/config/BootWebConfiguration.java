@@ -29,7 +29,7 @@ import java.util.EnumSet;
 /**
  * 基础服务-Web配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-08
  */
 @Configuration

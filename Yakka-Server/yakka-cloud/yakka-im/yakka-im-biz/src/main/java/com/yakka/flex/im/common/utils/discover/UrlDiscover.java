@@ -8,7 +8,7 @@ import com.yakka.flex.im.domain.UrlInfo;
 import java.util.Map;
 
 /**
- * @author nyh
+ * @author Jared
  */
 public interface UrlDiscover {
 

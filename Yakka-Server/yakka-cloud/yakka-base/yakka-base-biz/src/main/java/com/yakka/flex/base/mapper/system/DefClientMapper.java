@@ -11,7 +11,7 @@ import com.yakka.flex.base.entity.system.DefClient;
  * 客户端
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-13
  */
 @Repository

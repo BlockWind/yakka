@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 移除群成员
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

@@ -17,7 +17,7 @@ import java.util.Optional;
 
 /**
  * 公告消息
- * @author 乾乾
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

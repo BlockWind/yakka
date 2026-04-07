@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * 实体配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/9 21:40
  */
 @Data

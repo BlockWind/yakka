@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * 群组基本信息的缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 public class RoomFriendCache extends AbstractRedisStringCache<Long, RoomFriend> {

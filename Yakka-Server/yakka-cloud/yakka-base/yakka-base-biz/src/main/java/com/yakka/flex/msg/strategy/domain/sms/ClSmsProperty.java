@@ -7,7 +7,7 @@ import com.yakka.basic.utils.ArgumentAssert;
 import com.yakka.flex.msg.strategy.domain.BaseProperty;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2022/7/10 0010 18:56
  */
 @Data

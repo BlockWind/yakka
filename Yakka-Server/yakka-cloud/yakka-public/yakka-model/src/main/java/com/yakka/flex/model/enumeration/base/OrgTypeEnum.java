@@ -14,7 +14,7 @@ import java.util.stream.Stream;
  * 机构类型
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-11-08
  */
 @Getter

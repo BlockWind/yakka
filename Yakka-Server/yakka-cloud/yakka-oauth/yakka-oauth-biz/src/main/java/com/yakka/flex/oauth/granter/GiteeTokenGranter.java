@@ -26,7 +26,7 @@ import org.springframework.stereotype.Component;
 /**
  * Gitee TokenGranter
  *
- * @author 乾乾
+ * @author Jared
  */
 @Component("GITEE")
 @Slf4j

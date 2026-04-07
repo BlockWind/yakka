@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 申请接口
- * @author 乾乾
+ * @author Jared
  */
 @RestController
 @RequestMapping("/room/apply")

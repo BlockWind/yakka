@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 移除黑名单请求
- * @author nyh
+ * @author Jared
  */
 @Data
 public class BlackRemoveReq implements Serializable {

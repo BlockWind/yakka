@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  * 是否正常的通用枚举
- * @author nyh
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

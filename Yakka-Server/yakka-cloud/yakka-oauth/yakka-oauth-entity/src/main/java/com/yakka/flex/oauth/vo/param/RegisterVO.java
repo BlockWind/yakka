@@ -15,7 +15,7 @@ import lombok.experimental.Accessors;
 /**
  * 登录参数
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020年01月05日22:18:12
  */
 @Data

@@ -6,7 +6,7 @@ import com.yakka.basic.utils.ArithUtil;
 /**
  * 內存相关信息
  *
- * @author 乾乾
+ * @author Jared
  */
 public class Mem {
     /**

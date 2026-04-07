@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 /**
  * 幂等类型
- * @author nyh
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

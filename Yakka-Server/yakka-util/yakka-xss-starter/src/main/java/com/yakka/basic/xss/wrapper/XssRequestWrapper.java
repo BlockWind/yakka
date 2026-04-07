@@ -16,7 +16,7 @@ import static com.yakka.basic.xss.utils.XssUtils.xssClean;
 /**
  * 跨站攻击请求包装器
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019-06-28 17:04
  */
 @Slf4j

@@ -14,7 +14,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.BytesUtil;
  * FDFS协议头一共10位
  * </pre>
  *
- * @author tobato
+ * @author Jared
  */
 public class ProtoHead {
 

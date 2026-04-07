@@ -12,7 +12,7 @@ import lombok.EqualsAndHashCode;
  * 单聊房间表
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

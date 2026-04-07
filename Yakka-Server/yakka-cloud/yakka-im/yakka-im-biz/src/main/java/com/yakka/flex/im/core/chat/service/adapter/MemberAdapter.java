@@ -24,7 +24,7 @@ import static com.yakka.flex.model.entity.ws.WSMemberChange.CHANGE_TYPE_ADD;
 
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Component
 @Slf4j

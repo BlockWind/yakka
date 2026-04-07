@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * 好友校验
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

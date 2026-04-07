@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 资源大业务
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/29 19:42
  */
 @Service

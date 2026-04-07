@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
  * 群成员表
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

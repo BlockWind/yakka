@@ -9,7 +9,7 @@ import java.util.Optional;
 
 /**
  * 用户ip信息
- * @author nyh
+ * @author Jared
  */
 @Data
 public class IpInfo implements Serializable {

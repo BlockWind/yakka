@@ -15,7 +15,7 @@ import com.github.tobato.fastdfs.exception.FdfsIOException;
  * 交易命令抽象类
  *
  * @param <T>
- * @author tobato
+ * @author Jared
  */
 public abstract class AbstractFdfsCommand<T> implements FdfsCommand<T> {
 

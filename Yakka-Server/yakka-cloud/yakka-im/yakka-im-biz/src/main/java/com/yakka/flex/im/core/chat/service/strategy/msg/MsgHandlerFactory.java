@@ -8,7 +8,7 @@ import java.util.Map;
 
 
 /**
- * @author nyh
+ * @author Jared
  */
 public class MsgHandlerFactory {
     private static final Map<Integer, AbstractMsgHandler> STRATEGY_MAP = new HashMap<>();

@@ -15,7 +15,7 @@ import java.io.Serializable;
 
 /**
  * 游标翻页请求
- * @author nyh
+ * @author Jared
  */
 @Data
 @Schema(description = "游标翻页请求")

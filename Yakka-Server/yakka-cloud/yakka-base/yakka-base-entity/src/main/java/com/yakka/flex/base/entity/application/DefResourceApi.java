@@ -21,7 +21,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 资源接口
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021-09-17
  */
 @Data

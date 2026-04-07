@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 /**
  * 硅基流动视频生成模型实现
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 public class SiliconFlowVideoModel implements VideoModel {

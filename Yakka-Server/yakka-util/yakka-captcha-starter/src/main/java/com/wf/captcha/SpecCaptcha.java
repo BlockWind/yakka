@@ -11,7 +11,7 @@ import java.io.OutputStream;
 /**
  * png格式验证码
  *
- * @author Created by 王帆 on 2018-07-27 上午 10:08.
+ * @author Jared on 2018-07-27 上午 10:08.
  */
 public class SpecCaptcha extends Captcha {
 

@@ -5,7 +5,7 @@ import java.io.OutputStream;
 
 /**
  *
- * @author Created by 王帆 on 2018-07-27 上午 10:08.
+ * @author Jared on 2018-07-27 上午 10:08.
  */
 public class Encoder {
     static final int BITS = 12;

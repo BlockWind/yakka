@@ -17,7 +17,7 @@ import java.util.List;
  * list列表 转换成tree列表
  * Created by Ace on 2017/6/12.
  *
- * @author 乾乾
+ * @author Jared
  */
 public final class TreeUtil {
     /**

@@ -12,7 +12,7 @@ import com.yakka.flex.im.core.chat.mapper.AnnouncementsMapper;
  * 公告 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class AnnouncementsDao extends ServiceImpl<AnnouncementsMapper, Announcements> implements IService<Announcements> {

@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 新建群组
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

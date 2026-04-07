@@ -11,7 +11,7 @@ import java.util.function.Function;
 /**
  * 缓存操作公共接口
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/08/07
  */
 public interface CacheOps {

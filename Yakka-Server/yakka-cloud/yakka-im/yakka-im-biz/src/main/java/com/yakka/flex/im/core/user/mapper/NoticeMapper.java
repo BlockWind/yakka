@@ -13,7 +13,7 @@ import java.util.List;
  * 通知 Mapper 接口
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Repository
 public interface NoticeMapper extends BaseMapper<Notice> {

@@ -37,7 +37,7 @@ import static java.util.concurrent.TimeUnit.SECONDS;
 
 /**
  * 消息推送升级版 [结合消息路由] ws服务专用
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @Service

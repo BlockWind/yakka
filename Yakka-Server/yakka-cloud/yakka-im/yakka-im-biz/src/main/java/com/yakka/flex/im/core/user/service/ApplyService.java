@@ -12,7 +12,7 @@ import jakarta.validation.Valid;
  * 申请 服务类
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  */
 public interface ApplyService {
 

@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
  * 微信消息表
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

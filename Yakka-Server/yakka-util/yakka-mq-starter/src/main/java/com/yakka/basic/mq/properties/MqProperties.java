@@ -8,7 +8,7 @@ import com.yakka.basic.constant.Constants;
 /**
  * 操作日志配置类
  *
- * @author qianqian
+ * @author Jared
  * @date 2020年03月09日15:00:47
  */
 @Data

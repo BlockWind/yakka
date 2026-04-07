@@ -22,7 +22,7 @@ import com.baidu.fsg.uid.exception.UidGenerateException;
  * <p>
  * id重复： https://www.codenong.com/cs109643200/
  *
- * @author yutianbao
+ * @author Jared
  */
 public interface UidGenerator {
 

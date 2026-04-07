@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * 分页工具类
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020/11/26 10:25 上午
  */
 public class PageUtil {

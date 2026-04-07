@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Data
 public class UserInfoResp implements Serializable {

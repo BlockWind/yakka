@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  * 资源
- * @author tangyh
+ * @author Jared
  * @since 2024/9/21 22:20
  */
 public interface DefResourceFacade {

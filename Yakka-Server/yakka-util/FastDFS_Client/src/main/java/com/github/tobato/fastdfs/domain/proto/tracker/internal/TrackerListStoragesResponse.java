@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 列出分组信息执行结果
  *
- * @author tobato
+ * @author Jared
  */
 public class TrackerListStoragesResponse extends FdfsResponse<List<StorageState>> {
 

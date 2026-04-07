@@ -13,7 +13,7 @@ import java.util.List;
  * 登录日志
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-11-12
  */
 public interface DefLoginLogService extends SuperService<Long, DefLoginLog> {

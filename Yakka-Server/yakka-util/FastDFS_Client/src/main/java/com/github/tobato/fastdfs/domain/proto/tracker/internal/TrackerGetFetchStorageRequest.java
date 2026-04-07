@@ -12,7 +12,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 获取源服务器
  *
- * @author tobato
+ * @author Jared
  */
 public class TrackerGetFetchStorageRequest extends FdfsRequest {
 

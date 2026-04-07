@@ -32,7 +32,7 @@ import java.util.Set;
 /**
  * 面向应用的接口实现
  *
- * @author tobato
+ * @author Jared
  */
 @Component
 public class DefaultFastFileStorageClient extends DefaultGenerateStorageClient implements FastFileStorageClient {

@@ -15,7 +15,7 @@ import jakarta.servlet.Servlet;
 /**
  * 基础服务-全局异常处理
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-08
  */
 @Configuration

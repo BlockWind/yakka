@@ -5,7 +5,7 @@ import lombok.Data;
 import com.yakka.flex.model.enums.WSReqTypeEnum;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Data
 public class WSBaseReq implements Serializable {

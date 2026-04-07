@@ -10,7 +10,7 @@ import java.nio.charset.Charset;
 /**
  * Fdfs交易应答基类
  *
- * @author tobato
+ * @author Jared
  */
 public abstract class FdfsResponse<T> {
     /**

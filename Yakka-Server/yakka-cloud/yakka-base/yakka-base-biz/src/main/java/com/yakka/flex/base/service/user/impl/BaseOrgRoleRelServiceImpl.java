@@ -17,7 +17,7 @@ import com.yakka.flex.base.service.user.BaseOrgRoleRelService;
  * 组织的角色
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-18
  */
 @Slf4j

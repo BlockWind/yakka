@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 成员列表的成员信息
  *
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

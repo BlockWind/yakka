@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 处理ws服务发过来的音视频消息
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @RocketMQMessageListener(consumerGroup = MqConstant.FRONTEND_MSG_INPUT_TOPIC_GROUP, topic = MqConstant.FRONTEND_MSG_INPUT_TOPIC, messageModel = MessageModel.CLUSTERING)

@@ -18,7 +18,7 @@ import static com.yakka.basic.utils.collection.CollectionUtils.convertMap;
 /**
  * AI 知识库文档 Service 接口
  *
- * @author xiaoxin
+ * @author Jared
  */
 public interface AiKnowledgeDocumentService {
 

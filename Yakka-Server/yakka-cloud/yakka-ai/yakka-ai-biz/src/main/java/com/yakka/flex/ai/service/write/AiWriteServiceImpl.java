@@ -46,7 +46,7 @@ import static com.yakka.flex.ai.utils.ServiceExceptionUtil.exception;
 /**
  * AI 写作 Service 实现类
  *
- * @author xiaoxin
+ * @author Jared
  */
 @Service
 @Slf4j

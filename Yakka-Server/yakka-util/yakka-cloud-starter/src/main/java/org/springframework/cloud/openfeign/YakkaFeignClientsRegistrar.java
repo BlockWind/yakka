@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * feign 自动注册
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021年07月13日16:39:42
  */
 @Getter

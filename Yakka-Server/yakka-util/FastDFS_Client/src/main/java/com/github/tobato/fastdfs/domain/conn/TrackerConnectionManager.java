@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * 管理TrackerClient连接池分配
  *
- * @author tobato
+ * @author Jared
  */
 @Component
 @ConfigurationProperties(prefix = FdfsClientConstants.ROOT_CONFIG_PREFIX)

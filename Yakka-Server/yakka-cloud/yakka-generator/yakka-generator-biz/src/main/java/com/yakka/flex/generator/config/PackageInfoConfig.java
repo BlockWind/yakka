@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 /**
  * 包配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/14 22:06
  */
 @Data

@@ -16,7 +16,7 @@ import java.util.Set;
 
 /**
  * 全局房间
- * @author nyh
+ * @author Jared
  */
 @Component
 @RequiredArgsConstructor

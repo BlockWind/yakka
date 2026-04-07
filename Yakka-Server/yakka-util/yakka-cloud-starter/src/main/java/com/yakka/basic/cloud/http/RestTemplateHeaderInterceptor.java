@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * 通过 RestTemplate 调用时，传递请求头和线程变量
  *
- * @author 乾乾
+ * @author Jared
  */
 @AllArgsConstructor
 @Slf4j

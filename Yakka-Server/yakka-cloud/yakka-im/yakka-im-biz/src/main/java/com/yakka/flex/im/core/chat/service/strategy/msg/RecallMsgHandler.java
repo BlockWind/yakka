@@ -28,7 +28,7 @@ import java.util.Objects;
 
 /**
  * 撤回文本消息
- * @author nyh
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

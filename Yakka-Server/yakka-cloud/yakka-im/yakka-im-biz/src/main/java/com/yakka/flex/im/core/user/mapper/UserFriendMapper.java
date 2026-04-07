@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.UserFriend;
  * 用户联系人表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface UserFriendMapper extends BaseMapper<UserFriend> {

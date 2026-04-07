@@ -9,7 +9,7 @@ import com.yakka.basic.interfaces.BaseEnum;
 import java.util.stream.Stream;
 
 /**
- * @author tangyh
+ * @author Jared
  * @version v1.0
  * @date 2022/7/28 8:09 AM
  * @create [2022/7/28 8:09 AM ] [tangyh] [初始创建]

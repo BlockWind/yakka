@@ -17,7 +17,7 @@ import com.yakka.flex.base.service.application.DefUserApplicationService;
  * 用户的默认应用
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022-03-06
  */
 @Slf4j

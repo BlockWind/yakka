@@ -9,7 +9,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 功能物品配置表
- * @author nyh
+ * @author Jared
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

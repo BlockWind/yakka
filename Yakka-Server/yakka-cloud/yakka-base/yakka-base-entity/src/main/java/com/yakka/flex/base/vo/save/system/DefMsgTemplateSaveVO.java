@@ -20,7 +20,7 @@ import java.io.Serializable;
  * 消息模板
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022-07-04 15:51:37
  */
 @Data

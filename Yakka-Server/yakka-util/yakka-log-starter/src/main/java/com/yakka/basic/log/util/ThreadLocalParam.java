@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 线程变量封装的参数
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020/11/1 2:10 下午
  */
 @Data

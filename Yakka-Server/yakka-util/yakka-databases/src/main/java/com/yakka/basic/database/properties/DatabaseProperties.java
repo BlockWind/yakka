@@ -20,7 +20,7 @@ import static com.yakka.basic.database.properties.DatabaseProperties.PREFIX;
 /**
  * 客户端认证配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/11/20
  */
 @Data

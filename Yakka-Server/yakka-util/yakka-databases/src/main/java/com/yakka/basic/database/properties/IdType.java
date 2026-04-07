@@ -1,7 +1,7 @@
 package com.yakka.basic.database.properties;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2020/9/15 3:44 下午
  */
 public enum IdType {

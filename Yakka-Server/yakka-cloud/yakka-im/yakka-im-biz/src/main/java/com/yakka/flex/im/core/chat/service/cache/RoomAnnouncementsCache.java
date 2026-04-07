@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 /**
  * 群公告已读数量的缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 @RequiredArgsConstructor

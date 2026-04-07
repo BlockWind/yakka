@@ -3,7 +3,7 @@ package com.xxl.job.core.handler;
 /**
  * job handler
  *
- * @author xuxueli 2015-12-19 19:06:38
+ * @author Jared 2015-12-19 19:06:38
  */
 public abstract class IJobHandler {
 

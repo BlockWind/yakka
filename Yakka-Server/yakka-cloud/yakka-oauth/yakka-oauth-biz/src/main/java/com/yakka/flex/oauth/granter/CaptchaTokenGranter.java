@@ -26,7 +26,7 @@ import static com.yakka.flex.oauth.granter.CaptchaTokenGranter.GRANT_TYPE;
 /**
  * 验证码TokenGranter
  *
- * @author 乾乾
+ * @author Jared
  */
 @Component(GRANT_TYPE)
 @Slf4j

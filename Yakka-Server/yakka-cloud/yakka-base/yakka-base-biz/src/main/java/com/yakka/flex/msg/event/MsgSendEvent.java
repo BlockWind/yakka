@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 /**
  * 消息发送事件
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月18日17:22:55
  */
 public class MsgSendEvent extends ApplicationEvent {

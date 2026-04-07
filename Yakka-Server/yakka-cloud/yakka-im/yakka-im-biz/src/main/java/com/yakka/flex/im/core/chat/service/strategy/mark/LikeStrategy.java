@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 点赞标记策略类
- * @author nyh
+ * @author Jared
  */
 @Component
 public class LikeStrategy extends AbstractMsgMarkStrategy {

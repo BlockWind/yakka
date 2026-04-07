@@ -12,7 +12,7 @@ import java.util.List;
  * 用户表情包 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class UserEmojiDao extends ServiceImpl<UserEmojiMapper, UserEmoji> {

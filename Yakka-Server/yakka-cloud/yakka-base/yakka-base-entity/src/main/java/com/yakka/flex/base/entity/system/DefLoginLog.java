@@ -21,7 +21,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 登录日志
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021-11-12
  */
 @Data

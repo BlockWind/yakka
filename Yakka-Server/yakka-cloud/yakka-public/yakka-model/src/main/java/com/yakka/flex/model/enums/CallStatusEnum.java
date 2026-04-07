@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  * 通话状态机
- * @author 乾乾
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

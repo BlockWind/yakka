@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * 文本消息返回体
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

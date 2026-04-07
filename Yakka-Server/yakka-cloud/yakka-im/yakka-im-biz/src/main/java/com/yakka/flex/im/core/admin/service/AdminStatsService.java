@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 后台管理统计服务
- * @author 乾乾
+ * @author Jared
  */
 public interface AdminStatsService {
 

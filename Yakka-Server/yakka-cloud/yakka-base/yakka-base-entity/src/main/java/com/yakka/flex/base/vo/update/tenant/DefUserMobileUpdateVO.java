@@ -21,7 +21,7 @@ import static com.yakka.basic.utils.ValidatorUtil.REGEX_MOBILE;
  * 用户手机修改VO
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2019-11-04
  */
 @Data

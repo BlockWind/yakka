@@ -15,7 +15,7 @@ import java.io.Serializable;
  *
  * @param <Entity>   实体
  * @param <UpdateVO> 修改参数
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月07日22:30:37
  */
 public interface UpdateController<Id extends Serializable, Entity extends SuperEntity<Id>, UpdateVO>

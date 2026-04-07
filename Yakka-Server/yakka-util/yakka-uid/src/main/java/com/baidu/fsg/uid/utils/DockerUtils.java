@@ -22,7 +22,7 @@ import org.slf4j.LoggerFactory;
 /**
  * DockerUtils
  *
- * @author yutianbao
+ * @author Jared
  */
 public final class DockerUtils {
     private static final Logger LOGGER = LoggerFactory.getLogger(DockerUtils.class);

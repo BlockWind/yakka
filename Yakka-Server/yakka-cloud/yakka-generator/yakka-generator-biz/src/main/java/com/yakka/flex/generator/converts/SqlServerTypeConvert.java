@@ -19,7 +19,7 @@ import static com.yakka.flex.generator.rules.DbColumnType.STRING;
 /**
  * SQLServer 字段类型转换
  *
- * @author tangyh
+ * @author Jared
  * @version v1.0
  * @date 2022/8/12 11:18 AM
  * @create [2022/8/12 11:18 AM ] [tangyh] [初始创建]

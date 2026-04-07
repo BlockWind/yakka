@@ -23,7 +23,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 通知表
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022-07-04 15:51:37
  */
 @Data

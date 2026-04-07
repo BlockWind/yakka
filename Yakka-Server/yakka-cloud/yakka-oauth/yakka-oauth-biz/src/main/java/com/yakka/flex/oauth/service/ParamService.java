@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 字典查询服务
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/7 13:27
  */
 public interface ParamService extends LoadService {

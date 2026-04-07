@@ -13,7 +13,7 @@ import java.util.List;
  * 资源
  * </p>
  *
- * @author tangyh
+ * @author Jared
  * @version v1.0
  * @date 2021/9/29 1:26 下午
  * @create [2021/9/29 1:26 下午 ] [tangyh] [初始创建]
@@ -25,7 +25,7 @@ public interface DefResourceManager extends SuperCacheManager<DefResource> {
      * @param applicationIdList 应用ID
      * @param resourceTypes     资源类型
      * @return java.util.List<com.yakka.flex.system.entity.application.DefResource>
-     * @author tangyh
+     * @author Jared
      * @date 2022/10/22 12:13 PM
      * @create [2022/10/22 12:13 PM ] [tangyh] [初始创建]
      */
@@ -37,7 +37,7 @@ public interface DefResourceManager extends SuperCacheManager<DefResource> {
      * @param idList 资源ID
      * @param types  资源类型
      * @return java.util.List<com.yakka.flex.model.entity.system.SysResource>
-     * @author tangyh
+     * @author Jared
      * @date 2022/10/24 8:50 AM
      * @create [2022/10/24 8:50 AM ] [tangyh] [初始创建]
      */
@@ -65,7 +65,7 @@ public interface DefResourceManager extends SuperCacheManager<DefResource> {
      *
      * @param resourceIds 资源id
      * @return int
-     * @author tangyh
+     * @author Jared
      * @date 2021/9/17 10:51 下午
      * @create [2021/9/17 10:51 下午 ] [tangyh] [初始创建]
      */
@@ -75,7 +75,7 @@ public interface DefResourceManager extends SuperCacheManager<DefResource> {
      *
      * @param applicationIds applicationId
      * @return java.util.List<com.yakka.flex.tenant.entity.tenant.DefResource>
-     * @author tangyh
+     * @author Jared
      * @date 2021/9/29 10:53 下午
      * @create [2021/9/29 10:53 下午 ] [tangyh] [初始创建]
      */

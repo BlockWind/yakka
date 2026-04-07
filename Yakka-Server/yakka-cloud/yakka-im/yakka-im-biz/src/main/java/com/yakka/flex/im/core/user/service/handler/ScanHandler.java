@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Component
 public class ScanHandler extends AbstractHandler {

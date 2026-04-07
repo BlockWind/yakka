@@ -15,7 +15,7 @@ import java.time.Duration;
  * 完整key: ${companyId}:is_sys_admin:${employeeId} -> "1" or "0"
  * <p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021/12/20 6:45 下午
  */
 public class IsTenantAdminCacheKeyBuilder implements CacheKeyBuilder {

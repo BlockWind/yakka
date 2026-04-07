@@ -21,7 +21,7 @@ import java.util.Objects;
  * <p>
  * 用户背包表 服务类
  * </p>
- * @author nyh
+ * @author Jared
  */
 @Service
 public class UserBackpackServiceImpl implements UserBackpackService {

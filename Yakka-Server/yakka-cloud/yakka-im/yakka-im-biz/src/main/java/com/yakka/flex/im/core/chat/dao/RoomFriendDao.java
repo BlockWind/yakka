@@ -14,7 +14,7 @@ import java.util.List;
  * 单聊房间表 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class RoomFriendDao extends ServiceImpl<RoomFriendMapper, RoomFriend> {

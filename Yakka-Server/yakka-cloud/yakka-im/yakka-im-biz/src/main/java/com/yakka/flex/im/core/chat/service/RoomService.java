@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * 房间底层管理
- * @author nyh
+ * @author Jared
  */
 public interface RoomService {
 

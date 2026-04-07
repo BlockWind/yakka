@@ -10,7 +10,7 @@ import static com.yakka.basic.context.ContextConstants.HEADER_TENANT_ID;
 /**
  * 多租户 Util
  *
- * @author 乾乾
+ * @author Jared
  */
 public class TenantUtils {
 

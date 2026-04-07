@@ -32,7 +32,7 @@ import static com.yakka.flex.ai.utils.ServiceExceptionUtil.exception;
 /**
  * AI API 密钥 Service 实现类
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @Service

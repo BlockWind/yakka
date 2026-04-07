@@ -12,7 +12,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 文件上传命令
  *
- * @author tobato
+ * @author Jared
  */
 public class StorageAppendFileRequest extends FdfsRequest {
 

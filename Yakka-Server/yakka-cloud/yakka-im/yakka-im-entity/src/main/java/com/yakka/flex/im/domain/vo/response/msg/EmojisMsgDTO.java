@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * 表情图片消息入参
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

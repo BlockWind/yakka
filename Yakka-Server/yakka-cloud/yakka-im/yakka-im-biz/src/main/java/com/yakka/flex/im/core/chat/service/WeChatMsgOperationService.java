@@ -3,7 +3,7 @@ package com.yakka.flex.im.core.chat.service;
 import java.util.List;
 
 /**
- * @author nyh
+ * @author Jared
  */
 public interface WeChatMsgOperationService {
     /**

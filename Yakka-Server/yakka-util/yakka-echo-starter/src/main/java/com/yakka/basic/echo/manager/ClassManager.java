@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 类管理器
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021年03月22日15:53:22
  */
 @Slf4j

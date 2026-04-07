@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.yakka.basic.base.R;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/26 21:40
  */
 @Slf4j

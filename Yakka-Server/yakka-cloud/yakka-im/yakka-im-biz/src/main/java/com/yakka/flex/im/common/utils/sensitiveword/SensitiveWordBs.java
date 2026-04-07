@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 敏感词引导类
  *
- * @author nyh
+ * @author Jared
  */
 public class SensitiveWordBs {
 

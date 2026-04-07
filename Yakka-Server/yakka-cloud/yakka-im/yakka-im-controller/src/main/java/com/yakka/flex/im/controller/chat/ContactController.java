@@ -28,7 +28,7 @@ import java.util.List;
 
 /**
  * 会话相关接口
- * @author nyh
+ * @author Jared
  */
 @RestController
 @RequestMapping("/chat")

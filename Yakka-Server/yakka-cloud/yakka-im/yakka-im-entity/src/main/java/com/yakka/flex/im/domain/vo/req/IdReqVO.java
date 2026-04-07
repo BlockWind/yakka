@@ -9,7 +9,7 @@ import jakarta.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Data
 @NoArgsConstructor

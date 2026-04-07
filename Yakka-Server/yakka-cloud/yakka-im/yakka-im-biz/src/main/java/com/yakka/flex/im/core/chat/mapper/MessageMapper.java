@@ -15,7 +15,7 @@ import java.util.Map;
  * 消息表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface MessageMapper extends BaseMapper<Message> {

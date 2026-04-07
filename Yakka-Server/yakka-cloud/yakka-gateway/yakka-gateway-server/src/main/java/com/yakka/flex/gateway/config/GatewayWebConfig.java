@@ -34,7 +34,7 @@ import java.util.TimeZone;
 import static com.yakka.basic.utils.DateUtils.DEFAULT_DATE_TIME_FORMAT;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/12/9 18:52
  */
 @Configuration

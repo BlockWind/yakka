@@ -11,7 +11,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 移除存储服务器
  *
- * @author tobato
+ * @author Jared
  */
 public class TrackerDeleteStorageRequest extends FdfsRequest {
 

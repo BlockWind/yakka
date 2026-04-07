@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * 将扫码登录返回信息推送给所有横向扩展的服务
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @AllArgsConstructor

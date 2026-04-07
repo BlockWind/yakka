@@ -8,7 +8,7 @@ import com.yakka.flex.msg.vo.update.ExtendMsgSendVO;
 /**
  * 熔断
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/25
  */
 @Component

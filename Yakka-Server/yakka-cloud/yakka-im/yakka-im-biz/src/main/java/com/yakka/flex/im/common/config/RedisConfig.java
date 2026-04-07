@@ -17,7 +17,7 @@ import org.springframework.util.Assert;
 import java.util.Objects;
 
 /**
- * @author nyh
+ * @author Jared
  */
 @Configuration
 public class RedisConfig {

@@ -12,7 +12,7 @@ import com.yakka.flex.base.vo.save.system.BaseOperationLogSaveVO;
 import com.yakka.flex.common.properties.SystemProperties;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2017-12-15 14:42
  */
 @Configuration

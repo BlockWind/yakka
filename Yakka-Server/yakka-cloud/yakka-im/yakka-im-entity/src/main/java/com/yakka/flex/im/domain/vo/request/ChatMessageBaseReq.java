@@ -11,7 +11,7 @@ import jakarta.validation.constraints.NotNull;
 
 /**
  * 消息基础请求体
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

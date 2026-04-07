@@ -3,7 +3,7 @@ package com.yakka.basic;
 /**
  * 本项目聚合所有模块的依赖
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025/06/06 11:05 上午
  */
 public class YakkaUtil {

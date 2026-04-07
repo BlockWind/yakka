@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.proto;
 /**
  * fastdfs协议暂时未分类的常量
  *
- * @author yuqih
+ * @author Jared
  */
 public final class OtherConstants {
     /**

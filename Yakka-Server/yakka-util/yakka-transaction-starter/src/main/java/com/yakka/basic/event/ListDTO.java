@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 集合类型的 event
  *
- * @author qianqian
+ * @author Jared
  * @date 2024年01月07日17:25:44
  */
 @Data

@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.proto;
 /**
  * fastdfs协议服务端状态的常量
  *
- * @author yuqih
+ * @author Jared
  */
 public final class StatusConstants {
     public static final byte FDFS_STORAGE_STATUS_INIT = 0;

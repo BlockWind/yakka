@@ -15,7 +15,7 @@ import java.io.Serializable;
  *
  * @param <S>      Service
  * @param <Entity> 实体
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月07日22:08:27
  */
 public abstract class SuperSimpleController<S extends SuperService<Id, Entity>, Id extends Serializable, Entity extends SuperEntity<Id>>

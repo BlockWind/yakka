@@ -29,7 +29,7 @@ import static feign.Util.checkNotNull;
 /**
  * 自动降级, 代替原3.3.0之前版本的 GlobalFallbackFactoryProxy
  *
- * @author 乾乾
+ * @author Jared
  * @see com.alibaba.cloud.sentinel.feign.SentinelInvocationHandler
  */
 @Slf4j

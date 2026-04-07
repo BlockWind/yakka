@@ -9,7 +9,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.internal.StorageModifyRequ
 /**
  * 文件修改命令
  *
- * @author tobato
+ * @author Jared
  */
 public class StorageModifyCommand extends AbstractFdfsCommand<Void> {
 

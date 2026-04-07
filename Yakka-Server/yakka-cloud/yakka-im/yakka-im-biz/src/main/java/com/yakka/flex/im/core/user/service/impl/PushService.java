@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 
 /**
  * 消息推送升级版 [结合消息路由]
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @Service

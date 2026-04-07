@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * 用户ip信息
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

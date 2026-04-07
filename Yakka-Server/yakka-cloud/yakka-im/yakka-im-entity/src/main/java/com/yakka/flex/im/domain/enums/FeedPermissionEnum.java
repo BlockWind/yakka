@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 /**
  * 朋友圈权限的枚举
  *
- * @author 乾乾
+ * @author Jared
  */
 @RequiredArgsConstructor
 @Getter

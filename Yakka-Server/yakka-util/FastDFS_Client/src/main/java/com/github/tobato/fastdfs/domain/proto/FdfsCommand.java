@@ -5,7 +5,7 @@ import com.github.tobato.fastdfs.domain.conn.Connection;
 /**
  * Fdfs交易命令抽象
  *
- * @author tobato
+ * @author Jared
  */
 public interface FdfsCommand<T> {
 

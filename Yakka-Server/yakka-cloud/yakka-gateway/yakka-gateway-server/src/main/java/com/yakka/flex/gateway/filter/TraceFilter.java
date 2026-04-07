@@ -14,7 +14,7 @@ import com.yakka.basic.context.ContextConstants;
 /**
  * 生成日志链路追踪id，并传入header中
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月09日18:02:47
  */
 @Component

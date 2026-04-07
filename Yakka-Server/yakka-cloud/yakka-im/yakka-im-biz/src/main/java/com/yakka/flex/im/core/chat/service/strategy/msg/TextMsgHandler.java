@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 
 /**
  * 普通文本消息
- * @author nyh
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

@@ -18,7 +18,7 @@ import com.yakka.flex.base.vo.result.application.DefApplicationResultVO;
 /**
  * 用户大业务
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021/10/28 13:09
  */
 @Service

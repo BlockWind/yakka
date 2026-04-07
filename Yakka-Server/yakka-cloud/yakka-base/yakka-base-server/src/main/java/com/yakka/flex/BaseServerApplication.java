@@ -18,7 +18,7 @@ import static com.yakka.flex.common.constant.BizConstant.UTIL_PACKAGE;
 /**
  * 基础服务启动类
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-08
  */
 @SpringBootApplication

@@ -14,7 +14,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 /**
  * 全局异常处理
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025年07月25日7:19:27
  */
 @Configuration

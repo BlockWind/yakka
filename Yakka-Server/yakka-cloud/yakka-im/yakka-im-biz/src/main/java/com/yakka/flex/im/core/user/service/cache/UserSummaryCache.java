@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 
 /**
  * 用户所有信息的缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 @AllArgsConstructor

@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 /**
  * HTTP方法枚举
  *
- * @author 乾乾
+ * @author Jared
  */
 @Getter
 @Schema(description = "HTTP方法-枚举")

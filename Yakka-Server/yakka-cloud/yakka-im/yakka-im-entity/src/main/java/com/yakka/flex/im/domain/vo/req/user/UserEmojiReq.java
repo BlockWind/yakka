@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * 表情包反参
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

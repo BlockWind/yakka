@@ -15,7 +15,7 @@ import reactor.core.publisher.Flux;
  * <p>OpenRouter 兼容 OpenAI 接口，可以直接复用 OpenAiChatModel</p>
  * <p>API 文档：<a href="https://openrouter.ai/docs/api-reference/overview">OpenRouter API</a></p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @Slf4j
 @RequiredArgsConstructor

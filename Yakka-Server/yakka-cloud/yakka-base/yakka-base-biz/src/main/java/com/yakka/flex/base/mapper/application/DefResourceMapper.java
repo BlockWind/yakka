@@ -14,7 +14,7 @@ import java.util.List;
  * 资源
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-09-13
  */
 @Repository
@@ -25,7 +25,7 @@ public interface DefResourceMapper extends SuperMapper<DefResource> {
      *
      * @param resourceIds 资源id
      * @return int
-     * @author tangyh
+     * @author Jared
      * @date 2021/9/17 10:51 下午
      * @create [2021/9/17 10:51 下午 ] [tangyh] [初始创建]
      */

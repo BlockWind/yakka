@@ -62,7 +62,7 @@ import static com.yakka.flex.ai.utils.ServiceExceptionUtil.exception;
 /**
  * AI 绘画 Service 实现类
  *
- * @author 乾乾
+ * @author Jared
  */
 @Service
 @Slf4j

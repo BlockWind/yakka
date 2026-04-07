@@ -5,7 +5,7 @@ import com.yakka.flex.model.entity.system.SysUser;
 import com.yakka.flex.model.vo.result.UserQuery;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2020年02月24日10:41:49
  */
 public interface UserResolverService {

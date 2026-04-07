@@ -23,7 +23,7 @@ import java.util.List;
  * 字典
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021-10-04
  */
 @Data

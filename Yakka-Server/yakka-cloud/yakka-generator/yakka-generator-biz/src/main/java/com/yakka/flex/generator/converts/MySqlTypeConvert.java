@@ -18,7 +18,7 @@ import static com.yakka.flex.generator.rules.DbColumnType.LONG;
 import static com.yakka.flex.generator.rules.DbColumnType.STRING;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/13 23:02
  */
 public class MySqlTypeConvert implements ITypeConvert {

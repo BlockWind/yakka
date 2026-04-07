@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 /**
  * 幂等类型
- * @author 乾乾
+ * @author Jared
  */
 @AllArgsConstructor
 @Getter

@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * 解决跨域问题
  *
- * @author 乾乾
+ * @author Jared
  * @date 2017-12-29 14:16
  */
 @Configuration

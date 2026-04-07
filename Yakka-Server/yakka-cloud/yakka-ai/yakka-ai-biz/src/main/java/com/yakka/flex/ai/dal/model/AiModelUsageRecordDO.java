@@ -20,7 +20,7 @@ import java.time.LocalDateTime;
  *
  * <p>记录用户对公开模型的使用次数，用于限制每个用户对公开模型的使用次数</p>
  *
- * @author 乾乾
+ * @author Jared
  */
 @TableName("ai_model_usage_record")
 @KeySequence("ai_model_usage_record_seq")

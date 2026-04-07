@@ -17,7 +17,7 @@ import java.util.List;
  * 映射对象元数据必须由{@code @FdfsColumn}注解
  * </pre>
  *
- * @author tobato
+ * @author Jared
  */
 public class ObjectMetaData {
 

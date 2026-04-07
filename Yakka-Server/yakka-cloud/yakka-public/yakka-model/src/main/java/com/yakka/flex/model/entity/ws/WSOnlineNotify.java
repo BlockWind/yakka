@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 用户上线好友变动的推送类
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @Builder

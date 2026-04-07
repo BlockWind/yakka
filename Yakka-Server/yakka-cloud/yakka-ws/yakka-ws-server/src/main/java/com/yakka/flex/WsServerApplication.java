@@ -16,7 +16,7 @@ import java.net.UnknownHostException;
 /**
  * WS服务启动类
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025-06-08
  */
 @SpringBootApplication

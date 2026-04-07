@@ -14,7 +14,7 @@ import java.util.*;
 
 /**
  * 敏感词工具类
- * @author nyh
+ * @author Jared
  */
 public final class DFAFilter implements SensitiveWordFilter {
 

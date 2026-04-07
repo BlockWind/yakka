@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 消息撤回的推送类
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

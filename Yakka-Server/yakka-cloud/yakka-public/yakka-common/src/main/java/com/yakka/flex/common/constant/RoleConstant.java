@@ -3,7 +3,7 @@ package com.yakka.flex.common.constant;
 /**
  * 系统默认角色
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020年03月29日21:16:22
  */
 public final class RoleConstant {

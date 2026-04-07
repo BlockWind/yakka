@@ -3,7 +3,7 @@ package com.yakka.basic.function;
 /**
  * 处理异常的 函数
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/05/15
  */
 @FunctionalInterface

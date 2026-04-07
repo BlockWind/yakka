@@ -20,7 +20,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 数据权限
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2022-01-10
  */
 @Data

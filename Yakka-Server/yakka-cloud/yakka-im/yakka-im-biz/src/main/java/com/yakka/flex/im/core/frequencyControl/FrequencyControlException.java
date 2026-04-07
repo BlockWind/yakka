@@ -5,7 +5,7 @@ import java.io.Serial;
 
 /**
  * 自定义限流异常
- * @author 乾乾
+ * @author Jared
  */
 @Data
 public class FrequencyControlException extends RuntimeException {

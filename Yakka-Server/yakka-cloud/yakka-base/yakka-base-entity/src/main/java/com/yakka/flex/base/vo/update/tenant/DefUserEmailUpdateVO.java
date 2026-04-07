@@ -21,7 +21,7 @@ import static com.yakka.basic.utils.ValidatorUtil.REGEX_EMAIL;
  * 用户密码修改VO
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2019-11-04
  */
 @Data

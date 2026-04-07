@@ -7,7 +7,7 @@ import com.yakka.flex.generator.enumeration.TplEnum;
 /**
  * web pro 配置
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/23 22:31
  */
 @Data

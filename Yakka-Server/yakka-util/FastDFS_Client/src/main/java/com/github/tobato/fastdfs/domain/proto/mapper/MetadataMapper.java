@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * 文件标签（元数据）映射对象
  *
- * @author tobato
+ * @author Jared
  */
 public class MetadataMapper {
 

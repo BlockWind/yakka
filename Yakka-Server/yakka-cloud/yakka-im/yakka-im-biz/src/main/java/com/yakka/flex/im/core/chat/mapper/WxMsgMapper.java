@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.WxMsg;
  * 微信消息表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface WxMsgMapper extends BaseMapper<WxMsg> {

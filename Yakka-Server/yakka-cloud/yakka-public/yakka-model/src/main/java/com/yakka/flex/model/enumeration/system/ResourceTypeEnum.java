@@ -9,7 +9,7 @@ import com.yakka.basic.interfaces.BaseEnum;
 /**
  * 资源类型
  *
- * @author 乾乾
+ * @author Jared
  * @since 2021/3/12 21:20
  */
 @Getter

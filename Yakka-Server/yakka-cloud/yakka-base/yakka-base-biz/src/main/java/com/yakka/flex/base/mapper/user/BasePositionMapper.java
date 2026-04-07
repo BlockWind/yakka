@@ -10,7 +10,7 @@ import com.yakka.flex.base.entity.user.BasePosition;
  * 岗位
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @date 2021-10-18
  */
 @Repository

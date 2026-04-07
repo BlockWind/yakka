@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * 消息
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

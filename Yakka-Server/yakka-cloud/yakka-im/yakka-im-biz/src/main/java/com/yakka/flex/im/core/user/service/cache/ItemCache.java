@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 /**
  * 用户徽章基本信息的缓存
- * @author nyh
+ * @author Jared
  */
 @Component
 public class ItemCache extends AbstractRedisStringCache<Long, ItemConfig> {

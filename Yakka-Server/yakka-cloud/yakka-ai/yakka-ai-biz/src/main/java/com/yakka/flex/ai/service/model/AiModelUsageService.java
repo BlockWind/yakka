@@ -5,7 +5,7 @@ import com.yakka.flex.ai.dal.model.AiModelDO;
 /**
  * AI 模型使用次数 Service 接口
  *
- * @author 乾乾
+ * @author Jared
  */
 public interface AiModelUsageService {
 

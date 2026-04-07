@@ -6,8 +6,8 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * fastdfs中group的状态信息
  *
- * @author yuqih
- * @author tobato
+ * @author Jared
+ * @author Jared
  */
 public class GroupState {
 

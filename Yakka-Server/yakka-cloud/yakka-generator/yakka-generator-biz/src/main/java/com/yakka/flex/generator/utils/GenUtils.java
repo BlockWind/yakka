@@ -41,7 +41,7 @@ import static com.yakka.flex.generator.utils.inner.PackageUtils.getName;
 /**
  * 代码生成器 工具类
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022年3月3日15:05:17
  */
 @Slf4j

@@ -8,7 +8,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 import com.yakka.basic.constant.Constants;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/1/28 7:57 下午
  */
 

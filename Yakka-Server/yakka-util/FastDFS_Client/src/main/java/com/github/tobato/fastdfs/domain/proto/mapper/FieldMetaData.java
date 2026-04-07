@@ -13,7 +13,7 @@ import java.util.Set;
 /**
  * 属性映射MetaData定义
  *
- * @author tobato
+ * @author Jared
  */
 class FieldMetaData {
 

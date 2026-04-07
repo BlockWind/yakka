@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 提取指定表单验证规则
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019-06-12
  */
 public interface IConstraintExtract {

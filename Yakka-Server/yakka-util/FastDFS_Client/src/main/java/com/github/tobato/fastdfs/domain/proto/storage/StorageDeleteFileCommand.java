@@ -7,7 +7,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.internal.StorageDeleteFile
 /**
  * 文件删除命令
  *
- * @author tobato
+ * @author Jared
  */
 public class StorageDeleteFileCommand extends AbstractFdfsCommand<Void> {
 

@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationEvent;
 import java.time.LocalDateTime;
 
 /**
- * @author 乾乾
+ * @author Jared
  */
 @Getter
 public class UserOnlineEvent extends ApplicationEvent {

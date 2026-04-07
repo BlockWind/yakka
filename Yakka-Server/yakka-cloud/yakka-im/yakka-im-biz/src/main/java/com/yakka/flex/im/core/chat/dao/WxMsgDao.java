@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
  * 微信消息表 服务实现类
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Service
 public class WxMsgDao extends ServiceImpl<WxMsgMapper, WxMsg> {

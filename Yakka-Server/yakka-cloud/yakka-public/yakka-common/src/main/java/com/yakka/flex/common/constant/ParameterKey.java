@@ -3,7 +3,7 @@ package com.yakka.flex.common.constant;
 /**
  * 全局参数表（c_parameter）的key
  *
- * @author 乾乾
+ * @author Jared
  * @date 2020年04月02日22:37:05
  */
 public interface ParameterKey {

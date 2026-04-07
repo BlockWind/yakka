@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * AI 视频生成 DO
  *
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @TableName(value = "ai_video", autoResultMap = true)

@@ -6,7 +6,7 @@ import com.yakka.basic.utils.ArithUtil;
 /**
  * CPU相关信息
  *
- * @author 乾乾
+ * @author Jared
  */
 public class Cpu {
     /**

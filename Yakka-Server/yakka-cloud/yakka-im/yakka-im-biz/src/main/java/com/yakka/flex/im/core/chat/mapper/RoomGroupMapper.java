@@ -10,7 +10,7 @@ import com.yakka.flex.im.domain.entity.RoomGroup;
  * 群聊房间表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface RoomGroupMapper extends BaseMapper<RoomGroup> {

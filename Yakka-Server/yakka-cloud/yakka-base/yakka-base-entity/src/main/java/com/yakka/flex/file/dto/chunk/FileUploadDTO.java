@@ -7,7 +7,7 @@ import lombok.ToString;
 /**
  * 文件分片上传实体
  *
- * @author 乾乾
+ * @author Jared
  * @date 2018/08/29
  */
 @Data

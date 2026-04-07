@@ -12,7 +12,7 @@ import java.util.List;
  * 房间表 Mapper 接口
  * </p>
  *
- * @author nyh
+ * @author Jared
  */
 @Repository
 public interface RoomMapper extends BaseMapper<Room> {

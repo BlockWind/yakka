@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 模型信息
  *
- * @author 乾乾
+ * @author Jared
  * @date 2025/10/20
  */
 @Data

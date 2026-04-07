@@ -19,7 +19,7 @@ import static com.yakka.flex.generator.utils.inner.PackageUtils.getName;
 /**
  * 解析注释中的内容
  *
- * @author 乾乾
+ * @author Jared
  * @date 2022/3/22 13:15
  */
 public class CommentUtils {

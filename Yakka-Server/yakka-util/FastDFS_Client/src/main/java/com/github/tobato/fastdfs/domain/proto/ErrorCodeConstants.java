@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.proto;
 /**
  * fastdfs协议错误码的常量
  *
- * @author yuqih
+ * @author Jared
  */
 public final class ErrorCodeConstants {
 

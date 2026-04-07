@@ -22,7 +22,7 @@ import static com.yakka.basic.utils.DateUtils.DEFAULT_TIME_FORMAT;
  * 3. @RequestParam("date") LocalDate date
  * 4. @RequestParam("date") LocalTime date
  *
- * @author 乾乾
+ * @author Jared
  */
 public class DateFormatRegister implements FeignFormatterRegistrar {
 

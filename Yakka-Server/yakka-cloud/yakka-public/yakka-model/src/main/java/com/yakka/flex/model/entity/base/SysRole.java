@@ -29,7 +29,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
 /**
  * 角色
  *
- * @author 乾乾
+ * @author Jared
  * @date 2019/07/10
  */
 @Data

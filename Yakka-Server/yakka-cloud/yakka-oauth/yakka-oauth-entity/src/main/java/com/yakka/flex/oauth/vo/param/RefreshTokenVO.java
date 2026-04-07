@@ -12,7 +12,7 @@ import lombok.experimental.Accessors;
 /**
  * 刷新token参数
  *
- * @author 乾乾
+ * @author Jared
  */
 @Data
 @NoArgsConstructor

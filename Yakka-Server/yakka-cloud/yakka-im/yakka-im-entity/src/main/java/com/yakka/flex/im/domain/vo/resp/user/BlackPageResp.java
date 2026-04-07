@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 
 /**
  * 黑名单分页响应
- * @author nyh
+ * @author Jared
  */
 @Data
 @Builder

@@ -14,7 +14,7 @@ import com.yakka.basic.cloud.feign.SentinelFeignBuilder;
 /**
  * 使用 Sentinel 时的特殊配置
  *
- * @author 乾乾
+ * @author Jared
  */
 @Configuration(proxyBeanMethods = false)
 @AutoConfigureBefore(SentinelFeignAutoConfiguration.class)

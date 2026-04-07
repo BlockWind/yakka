@@ -28,7 +28,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  *
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2019-07-03
  */
 @Data

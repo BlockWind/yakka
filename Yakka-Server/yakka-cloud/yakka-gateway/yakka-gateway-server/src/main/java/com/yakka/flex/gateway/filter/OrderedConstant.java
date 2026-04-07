@@ -3,7 +3,7 @@ package com.yakka.flex.gateway.filter;
 import org.springframework.core.Ordered;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2021/12/10 0:03
  */
 public interface OrderedConstant {

@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * 图片消息入参
- * @author nyh
+ * @author Jared
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

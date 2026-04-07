@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  * 设置文件标签
  *
- * @author tobato
+ * @author Jared
  */
 public class StorageSetMetadataRequest extends FdfsRequest {
 

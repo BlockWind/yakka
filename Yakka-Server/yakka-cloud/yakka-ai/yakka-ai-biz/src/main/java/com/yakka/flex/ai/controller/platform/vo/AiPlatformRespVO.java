@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * AI 平台配置 Response VO
  *
- * @author 乾乾
+ * @author Jared
  */
 @Schema(description = "管理后台 - AI 平台配置 Response VO")
 @Data

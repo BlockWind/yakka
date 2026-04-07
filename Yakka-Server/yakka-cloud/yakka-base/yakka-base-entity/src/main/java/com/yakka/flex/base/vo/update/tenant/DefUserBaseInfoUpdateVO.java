@@ -23,7 +23,7 @@ import static com.yakka.basic.utils.ValidatorUtil.REGEX_ID_CARD;
  * 用户
  * </p>
  *
- * @author 乾乾
+ * @author Jared
  * @since 2020-02-14
  */
 @Data

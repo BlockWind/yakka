@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author 乾乾
+ * @author Jared
  * @date 2022/7/10 0010 14:18
  */
 public interface MsgStrategy {
@@ -24,7 +24,7 @@ public interface MsgStrategy {
      *
      * @param param param
      * @return java.util.Map<java.lang.String, java.lang.String>
-     * @author tangyh
+     * @author Jared
      * @date 2022/10/28 4:58 PM
      * @create [2022/10/28 4:58 PM ] [tangyh] [初始创建]
      */
@@ -45,7 +45,7 @@ public interface MsgStrategy {
      * @param extendMsg         extendMsg
      * @param extendMsgTemplate extendMsgTemplate
      * @return com.yakka.flex.msg.strategy.domain.MsgResult
-     * @author tangyh
+     * @author Jared
      * @date 2022/10/28 4:58 PM
      * @create [2022/10/28 4:58 PM ] [tangyh] [初始创建]
      */
@@ -82,7 +82,7 @@ public interface MsgStrategy {
      * @param msgParam msgParam
      * @return com.yakka.flex.msg.strategy.domain.MsgResult
      * @throws Exception 异常
-     * @author tangyh
+     * @author Jared
      * @date 2022/10/28 4:58 PM
      * @create [2022/10/28 4:58 PM ] [tangyh] [初始创建]
      */
