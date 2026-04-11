@@ -112,7 +112,7 @@ yakka:
     delFile: false
     suffix: doc,docx,gif,jpeg,jpg,pdf,png,rar,zip,xls,xlsx,txt,file,bin,egp,egpx,apk,xml,rpx,rpg,html,htm,wps,xbid,db
     local:
-      storage-path: /Users/tangyh/data/projects/uploadfile/file/     # 文件存储路径  （ 某些版本的 window 需要改成  D:\\data\\projects\\uploadfile\\file\\  ）
+      storage-path: /Users/yakka/data/projects/uploadfile/file/     # 文件存储路径  （ 某些版本的 window 需要改成  D:\\data\\projects\\uploadfile\\file\\  ）
       urlPrefix: http://127.0.0.1/file/   # 文件访问 （部署nginx后，配置nginx的ip，并配置nginx静态代理storage-path地址的静态资源）
       inner-url-prefix: null  #  内网的url前缀
     fastDfs:
@@ -147,7 +147,7 @@ yakka:
     frontSoyOutputDir: /Users/yakka/github/yakka-web-pro-soybean
     frontVben5OutputDir: /Users/yakka/github/yakka-web-vben-max/apps/web-antd
     # 作者
-    author: qianqian
+    author: JaredJia
     # 默认项目
     projectType: BOOT
     #  # 去除表前缀

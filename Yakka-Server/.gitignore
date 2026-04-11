@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
 ### STS ###
 .apt_generated
 .classpath
@@ -38,3 +39,5 @@ docker/store/**
 docker/console/**
 docker/minio/**
 docker/redis/**
+/logs/**
+/@logging.file.path@/**

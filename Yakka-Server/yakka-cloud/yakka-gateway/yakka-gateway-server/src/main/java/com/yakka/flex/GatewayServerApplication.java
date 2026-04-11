@@ -15,7 +15,7 @@ import static com.yakka.flex.common.constant.BizConstant.UTIL_PACKAGE;
 
 /**
  * @author Jared
- * @date 2017-12-13 15:02
+ * @date 2025-12-13 15:02
  */
 @SpringBootApplication(exclude = {
 		DataSourceAutoConfiguration.class,
